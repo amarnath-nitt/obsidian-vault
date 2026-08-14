@@ -1,19 +1,17 @@
-# 🚀 Final Sprint — 24 Hours Before Your Coforge Java Interview
+# 🚀 Final Sprint — 24 Hours Before Your Java Interview
 
-> **Interview:** Java Developer at **Coforge**  
-> **When:** Tomorrow at **1:00 PM**  
-> **Current time:** Evening of Aug 14 → Morning of Aug 15  
+> **Interview:** Java Developer
 > **Strategy:** High-impact topics only, active recall, explain aloud. No new concepts.
 
 ---
 
 ## ⏰ Time Budget
 
-| Block | Time | Focus |
-|---|---|---|
-| **Tonight** (Aug 14, ~7 PM – 11 PM) | 3–4 hrs | Core Java fundamentals + SQL |
+| Block                                      | Time    | Focus                                              |
+| ------------------------------------------ | ------- | -------------------------------------------------- |
+| **Tonight** (Aug 14, ~7 PM – 11 PM)        | 3–4 hrs | Core Java fundamentals + SQL                       |
 | **Tomorrow AM** (Aug 15, ~9 AM – 12:30 PM) | 3.5 hrs | Java 8 + Spring Boot + Coding warm-up + Behavioral |
-| **Last 30 min** (12:30 – 1 PM) | 30 min | Quick scan of key cards, relax, prepare materials |
+| **Last 30 min** (12:30 – 1 PM)             | 30 min  | Quick scan of key cards, relax, prepare materials  |
 
 ---
 

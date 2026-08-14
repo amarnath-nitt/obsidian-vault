@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="140">
+  <style>text{font-family: Arial, sans-serif; font-size:13px}</style>
+  <rect x="8" y="8" width="744" height="124" fill="#ffffff" stroke="#e3e8ef" rx="8"/>
+  <text x="20" y="32" fill="#222">Window example (s = "abcabcbb")</text>
+  <g transform="translate(20,50)">
+    <rect x="0" y="0" width="48" height="48" fill="#fff" stroke="#3a7bd5"/>
+    <text x="24" y="32" text-anchor="middle">a</text>
+    <rect x="58" y="0" width="48" height="48" fill="#fff" stroke="#3a7bd5"/>
+    <text x="82" y="32" text-anchor="middle">b</text>
+    <rect x="116" y="0" width="48" height="48" fill="#fff" stroke="#3a7bd5"/>
+    <text x="140" y="32" text-anchor="middle">c</text>
+    <rect x="174" y="0" width="48" height="48" fill="#fff" stroke="#3a7bd5"/>
+    <text x="198" y="32" text-anchor="middle">a</text>
+  </g>
+</svg>

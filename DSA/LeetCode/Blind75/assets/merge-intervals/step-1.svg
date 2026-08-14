@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="140">
+  <style>text{font-family: Arial, sans-serif; font-size:13px}</style>
+  <text x="20" y="28" fill="#222">Intervals sorted by start:</text>
+  <g transform="translate(20,40)">
+    <rect x="0" y="10" width="120" height="20" fill="#9ad0f5" stroke="#4b9be6"/>
+    <rect x="80" y="10" width="160" height="20" fill="#bfe7c6" stroke="#57b86b"/>
+    <rect x="260" y="10" width="80" height="20" fill="#ffd59e" stroke="#e29a2f"/>
+    <text x="20" y="8" fill="#444">[1,4]  [2,6]  [8,10]</text>
+  </g>
+</svg>

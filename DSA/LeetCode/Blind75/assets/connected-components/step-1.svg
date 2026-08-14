@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="140">
+  <style>text{font-family: Arial, sans-serif; font-size:13px}</style>
+  <text x="20" y="28" fill="#222">Union-Find groups visualization</text>
+  <g transform="translate(20,50)">
+    <circle cx="40" cy="20" r="12" fill="#cfe8ff" stroke="#9cc3ff"/>
+    <text x="40" y="24" text-anchor="middle">0</text>
+    <circle cx="100" cy="20" r="12" fill="#cfe8ff" stroke="#9cc3ff"/>
+    <text x="100" y="24" text-anchor="middle">1</text>
+    <circle cx="160" cy="20" r="12" fill="#cfe8ff" stroke="#9cc3ff"/>
+    <text x="160" y="24" text-anchor="middle">2</text>
+    <path d="M52 20 L88 20" stroke="#999"/>
+    <path d="M112 20 L148 20" stroke="#999"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="140">
+  <style>text{font-family: Arial, sans-serif; font-size:13px}</style>
+  <text x="20" y="28" fill="#222">Two heaps: maxHeap (left) and minHeap (right)</text>
+  <g transform="translate(20,50)">
+    <rect x="0" y="0" width="120" height="60" fill="#fff6e6" stroke="#d4a017"/>
+    <text x="60" y="34" text-anchor="middle">maxHeap</text>
+    <rect x="160" y="0" width="120" height="60" fill="#e6f7ff" stroke="#4b9be6"/>
+    <text x="220" y="34" text-anchor="middle">minHeap</text>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="120">
+  <style>text{font-family: Arial, sans-serif; font-size:13px}</style>
+  <text x="20" y="24" fill="#222">Backtracking tree (subsets)</text>
+  <g transform="translate(20,40)">
+    <circle cx="40" cy="0" r="12" fill="#fff" stroke="#4b6cc1"/>
+    <text x="40" y="4" text-anchor="middle">[]</text>
+    <circle cx="120" cy="-20" r="12" fill="#fff" stroke="#4b6cc1"/>
+    <text x="120" y="-16" text-anchor="middle">[1]</text>
+    <circle cx="120" cy="20" r="12" fill="#fff" stroke="#4b6cc1"/>
+    <text x="120" y="24" text-anchor="middle">[2]</text>
+  </g>
+</svg>

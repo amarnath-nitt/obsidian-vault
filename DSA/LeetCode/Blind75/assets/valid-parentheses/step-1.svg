@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120">
+  <style>text{font-family: Arial, sans-serif; font-size:13px}</style>
+  <text x="20" y="24" fill="#222">Stack snapshot while parsing "()[]{}"</text>
+  <g transform="translate(20,40)">
+    <rect x="0" y="0" width="40" height="24" fill="#fff" stroke="#4b6cc1"/>
+    <text x="20" y="16" text-anchor="middle">(</text>
+    <rect x="50" y="0" width="40" height="24" fill="#fff" stroke="#4b6cc1"/>
+    <text x="70" y="16" text-anchor="middle">[</text>
+  </g>
+</svg>

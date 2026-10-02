@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Greedy
+lc_number: 134
+date_solved: 
+tags:
+  - dsa
+  - greedy
+  - medium
+---
 # Gas Station (LC 134)
 
 **Difficulty**: Medium  

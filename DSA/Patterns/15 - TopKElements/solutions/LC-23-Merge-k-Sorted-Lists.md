@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Top KElements
+lc_number: 23
+date_solved: 
+tags:
+  - dsa
+  - top-kelements
+  - hard
+---
 # Merge k Sorted Lists (LC 23)
 
 **Difficulty**: Hard  

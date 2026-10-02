@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Top KElements
+lc_number: 502
+date_solved: 
+tags:
+  - dsa
+  - top-kelements
+  - hard
+---
 # IPO
 
 [Problem Link](https://leetcode.com/problems/ipo/)

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Bit Manipulation
+lc_number: 137
+date_solved: 
+tags:
+  - dsa
+  - bit-manipulation
+  - medium
+---
 # Single Number II (LC 137)
 
 **Difficulty**: Medium  

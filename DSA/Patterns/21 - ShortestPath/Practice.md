@@ -1,4 +1,4 @@
-# Shortest Path - Practice Notes
+﻿# Shortest Path - Practice Notes
 
 ## Pattern Overview
 Finding the shortest path in graphs using algorithms like Dijkstra's, Bellman-Ford, and Floyd-Warshall.

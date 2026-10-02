@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Modified Binary Search
+lc_number: 410
+date_solved: 
+tags:
+  - dsa
+  - modified-binary-search
+  - hard
+---
 # Split Array Largest Sum
 
 [Problem Link](https://leetcode.com/problems/split-array-largest-sum/)

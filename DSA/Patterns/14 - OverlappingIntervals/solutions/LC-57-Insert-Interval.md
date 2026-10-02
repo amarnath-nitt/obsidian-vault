@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Overlapping Intervals
+lc_number: 57
+date_solved: 
+tags:
+  - dsa
+  - overlapping-intervals
+  - medium
+---
 # Insert Interval (LC 57)
 
 **Difficulty**: Medium  

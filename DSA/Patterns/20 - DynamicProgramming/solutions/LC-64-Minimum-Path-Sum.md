@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Dynamic Programming
+lc_number: 64
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - medium
+---
 # Minimum Path Sum (LC 64)
 
 **Difficulty**: Medium  

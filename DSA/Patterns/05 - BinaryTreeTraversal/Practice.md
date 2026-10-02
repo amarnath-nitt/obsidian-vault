@@ -1,4 +1,4 @@
-# Binary Tree Traversal - Practice Notes
+﻿# Binary Tree Traversal - Practice Notes
 
 ## Pattern Overview
 Different ways to traverse binary trees: Preorder, Inorder, Postorder, and Level Order.

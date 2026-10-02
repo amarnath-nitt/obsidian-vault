@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Dynamic Programming
+lc_number: 509
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - easy
+---
 # Fibonacci Number
 
 [Problem Link](https://leetcode.com/problems/fibonacci-number/)

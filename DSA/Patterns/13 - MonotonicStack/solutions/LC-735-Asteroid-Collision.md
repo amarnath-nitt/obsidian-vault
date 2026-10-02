@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Monotonic Stack
+lc_number: 735
+date_solved: 
+tags:
+  - dsa
+  - monotonic-stack
+  - medium
+---
 # Asteroid Collision (LC 735)
 
 **Difficulty**: Medium  

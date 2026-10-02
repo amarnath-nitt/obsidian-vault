@@ -1,4 +1,4 @@
-# Top K Elements - Practice Notes
+﻿# Top K Elements - Practice Notes
 
 ## Pattern Overview
 Finding the top K largest or smallest elements using Heap (Priority Queue) data structure.

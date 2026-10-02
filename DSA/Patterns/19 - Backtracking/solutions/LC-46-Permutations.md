@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Backtracking
+lc_number: 46
+date_solved: 
+tags:
+  - dsa
+  - backtracking
+  - medium
+---
 # Permutations (LC 46)
 
 **Difficulty**: Medium  

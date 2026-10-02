@@ -1,4 +1,4 @@
-# Modified Binary Search - Practice Notes
+﻿# Modified Binary Search - Practice Notes
 
 ## Pattern Overview
 Adapting binary search algorithm to solve problems beyond simple searching in sorted arrays.

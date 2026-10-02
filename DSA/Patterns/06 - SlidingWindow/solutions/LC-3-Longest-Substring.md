@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Sliding Window
+lc_number: 3
+date_solved: 
+tags:
+  - dsa
+  - sliding-window
+  - medium
+---
 # Longest Substring Without Repeating Characters (LC 3)
 
 **Difficulty**: Medium  

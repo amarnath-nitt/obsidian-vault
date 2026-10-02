@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Bit Manipulation
+lc_number: 201
+date_solved: 
+tags:
+  - dsa
+  - bit-manipulation
+  - medium
+---
 # Bitwise AND of Numbers Range (LC 201)
 
 **Difficulty**: Medium  

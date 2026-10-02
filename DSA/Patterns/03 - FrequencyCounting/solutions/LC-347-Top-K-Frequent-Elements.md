@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Frequency Counting
+lc_number: 347
+date_solved: 
+tags:
+  - dsa
+  - frequency-counting
+  - medium
+---
 # Top K Frequent Elements (LC 347)
 
 **Difficulty**: Medium  

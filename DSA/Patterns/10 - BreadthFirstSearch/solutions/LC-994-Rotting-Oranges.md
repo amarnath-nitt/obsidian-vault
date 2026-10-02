@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Breadth First Search
+lc_number: 994
+date_solved: 
+tags:
+  - dsa
+  - breadth-first-search
+  - medium
+---
 # Rotting Oranges (LC 994)
 
 **Difficulty**: Medium  

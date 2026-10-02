@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Fast Slow Pointers
+lc_number: 141
+date_solved: 
+tags:
+  - dsa
+  - fast-slow-pointers
+  - easy
+---
 # Linked List Cycle (LC 141)
 
 **Difficulty**: Easy  

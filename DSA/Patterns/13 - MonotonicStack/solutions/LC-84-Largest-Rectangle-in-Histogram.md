@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Monotonic Stack
+lc_number: 84
+date_solved: 
+tags:
+  - dsa
+  - monotonic-stack
+  - hard
+---
 # Largest Rectangle in Histogram (LC 84)
 
 **Difficulty**: Hard  

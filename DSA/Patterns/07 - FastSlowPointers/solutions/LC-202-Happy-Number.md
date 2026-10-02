@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Fast Slow Pointers
+lc_number: 202
+date_solved: 
+tags:
+  - dsa
+  - fast-slow-pointers
+  - easy
+---
 # Happy Number (LC 202)
 
 **Difficulty**: Easy  

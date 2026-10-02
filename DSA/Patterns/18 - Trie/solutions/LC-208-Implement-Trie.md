@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Trie
+lc_number: 208
+date_solved: 
+tags:
+  - dsa
+  - trie
+  - medium
+---
 # Implement Trie (LC 208)
 
 **Difficulty**: Medium  

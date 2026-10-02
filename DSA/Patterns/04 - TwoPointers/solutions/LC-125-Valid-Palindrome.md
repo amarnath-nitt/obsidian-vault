@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Two Pointers
+lc_number: 125
+date_solved: 
+tags:
+  - dsa
+  - two-pointers
+  - easy
+---
 # Valid Palindrome
 
 [Problem Link](https://leetcode.com/problems/valid-palindrome/)

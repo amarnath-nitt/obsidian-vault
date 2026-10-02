@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Frequency Counting
+lc_number: 383
+date_solved: 
+tags:
+  - dsa
+  - frequency-counting
+  - easy
+---
 # Ransom Note
 
 [Problem Link](https://leetcode.com/problems/ransom-note/)

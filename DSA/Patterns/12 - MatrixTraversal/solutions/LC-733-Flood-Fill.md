@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Matrix Traversal
+lc_number: 733
+date_solved: 
+tags:
+  - dsa
+  - matrix-traversal
+  - easy
+---
 # Flood Fill (LC 733)
 
 **Difficulty**: Easy  

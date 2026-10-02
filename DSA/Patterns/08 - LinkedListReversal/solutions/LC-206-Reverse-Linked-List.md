@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Linked List Reversal
+lc_number: 206
+date_solved: 
+tags:
+  - dsa
+  - linked-list-reversal
+  - easy
+---
 # Reverse Linked List (LC 206)
 
 **Difficulty**: Easy  

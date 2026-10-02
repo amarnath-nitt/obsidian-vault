@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Backtracking
+lc_number: 78
+date_solved: 
+tags:
+  - dsa
+  - backtracking
+  - medium
+---
 # Subsets (LC 78)
 
 **Difficulty**: Medium  

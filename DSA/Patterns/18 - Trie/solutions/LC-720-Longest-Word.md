@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Trie
+lc_number: 720
+date_solved: 
+tags:
+  - dsa
+  - trie
+  - medium
+---
 # Longest Word in Dictionary
 
 [Problem Link](https://leetcode.com/problems/longest-word-in-dictionary/)

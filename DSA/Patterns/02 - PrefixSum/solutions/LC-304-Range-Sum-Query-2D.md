@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Prefix Sum
+lc_number: 304
+date_solved: 
+tags:
+  - dsa
+  - prefix-sum
+  - medium
+---
 # Range Sum Query 2D - Immutable (LC 304)
 
 **Difficulty**: Medium  

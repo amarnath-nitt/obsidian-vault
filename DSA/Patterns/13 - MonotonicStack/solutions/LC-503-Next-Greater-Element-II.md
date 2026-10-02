@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Monotonic Stack
+lc_number: 503
+date_solved: 
+tags:
+  - dsa
+  - monotonic-stack
+  - medium
+---
 # Next Greater Element II (LC 503)
 
 **Difficulty**: Medium  

@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Prefix Sum
+lc_number: 303
+date_solved: 
+tags:
+  - dsa
+  - prefix-sum
+  - easy
+---
 # Range Sum Query - Immutable (LC 303)
 
 **Difficulty**: Easy  

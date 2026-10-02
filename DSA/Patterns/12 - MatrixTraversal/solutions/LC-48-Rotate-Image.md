@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Matrix Traversal
+lc_number: 48
+date_solved: 
+tags:
+  - dsa
+  - matrix-traversal
+  - medium
+---
 # Rotate Image (LC 48)
 
 **Difficulty**: Medium  

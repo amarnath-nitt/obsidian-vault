@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Dynamic Programming
+lc_number: 198
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - medium
+---
 # House Robber (LC 198)
 
 **Difficulty**: Medium  

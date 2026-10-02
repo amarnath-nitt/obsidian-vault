@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Backtracking
+lc_number: 39
+date_solved: 
+tags:
+  - dsa
+  - backtracking
+  - medium
+---
 # Combination Sum (LC 39)
 
 **Difficulty**: Medium  

@@ -55,8 +55,7 @@ while (fast < arr.length) {
 - [x] [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) (LC 42) → [Solution](solutions/LC-42-Trapping-Rain-Water.md)
 
 ### Hard
-- [ ] [4Sum](https://leetcode.com/problems/4sum/) (LC 18) → [Solution](solutions/LC-18-4Sum.md)
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) (LC 76)
+- [x] [4Sum](https://leetcode.com/problems/4sum/) (LC 18) → [Solution](solutions/LC-18-4Sum.md)
 
 ## Reference
 [LeetCode Pattern Guide](https://lnkd.in/gAs6WZ6X)

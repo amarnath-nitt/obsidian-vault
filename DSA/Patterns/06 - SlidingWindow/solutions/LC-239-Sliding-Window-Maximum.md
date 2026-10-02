@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Sliding Window
+lc_number: 239
+date_solved: 
+tags:
+  - dsa
+  - sliding-window
+  - hard
+---
 # Sliding Window Maximum
 
 [Problem Link](https://leetcode.com/problems/sliding-window-maximum/)

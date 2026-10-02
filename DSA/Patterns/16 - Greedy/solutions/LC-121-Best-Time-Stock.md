@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Greedy
+lc_number: 121
+date_solved: 
+tags:
+  - dsa
+  - greedy
+  - easy
+---
 # Best Time to Buy and Sell Stock
 
 [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)

@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Prefix Sum
+lc_number: 560
+date_solved: 
+tags:
+  - dsa
+  - prefix-sum
+  - medium
+---
 # Subarray Sum Equals K (LC 560)
 
 **Difficulty**: Medium  

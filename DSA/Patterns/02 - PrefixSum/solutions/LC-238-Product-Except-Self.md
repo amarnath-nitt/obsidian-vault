@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Prefix Sum
+lc_number: 238
+date_solved: 
+tags:
+  - dsa
+  - prefix-sum
+  - medium
+---
 # Product of Array Except Self (LC 238)
 
 **Difficulty**: Medium  

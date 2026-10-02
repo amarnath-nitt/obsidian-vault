@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Depth First Search
+lc_number: 133
+date_solved: 
+tags:
+  - dsa
+  - depth-first-search
+  - medium
+---
 # Clone Graph
 
 [Problem Link](https://leetcode.com/problems/clone-graph/)

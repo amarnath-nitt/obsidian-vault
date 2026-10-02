@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Binary Tree Traversal
+lc_number: 94
+date_solved: 
+tags:
+  - dsa
+  - binary-tree-traversal
+  - easy
+---
 # Binary Tree Inorder Traversal (LC 94)
 
 **Difficulty**: Easy  

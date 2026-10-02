@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Frequency Counting
+lc_number: 169
+date_solved: 
+tags:
+  - dsa
+  - frequency-counting
+  - easy
+---
 # Majority Element (LC 169)
 
 **Difficulty**: Easy  

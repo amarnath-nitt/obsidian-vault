@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Binary Tree Traversal
+lc_number: 145
+date_solved: 
+tags:
+  - dsa
+  - binary-tree-traversal
+  - easy
+---
 # Binary Tree Postorder Traversal (LC 145)
 
 **Difficulty**: Easy  

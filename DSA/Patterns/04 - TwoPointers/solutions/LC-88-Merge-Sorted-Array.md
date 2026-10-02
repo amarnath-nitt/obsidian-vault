@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Two Pointers
+lc_number: 88
+date_solved: 
+tags:
+  - dsa
+  - two-pointers
+  - easy
+---
 # Merge Sorted Array
 
 [Problem Link](https://leetcode.com/problems/merge-sorted-array/)

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Top KElements
+lc_number: 973
+date_solved: 
+tags:
+  - dsa
+  - top-kelements
+  - medium
+---
 # K Closest Points to Origin (LC 973)
 
 **Difficulty**: Medium  

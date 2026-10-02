@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Matrix Traversal
+lc_number: 1293
+date_solved: 
+tags:
+  - dsa
+  - matrix-traversal
+  - hard
+---
 # Shortest Path in a Grid with Obstacles Elimination
 
 [Problem Link](https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/)

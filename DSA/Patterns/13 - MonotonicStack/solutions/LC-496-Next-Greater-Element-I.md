@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Monotonic Stack
+lc_number: 496
+date_solved: 
+tags:
+  - dsa
+  - monotonic-stack
+  - easy
+---
 # Next Greater Element I (LC 496)
 
 **Difficulty**: Easy  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Recursion
+lc_number: 10
+date_solved: 
+tags:
+  - dsa
+  - recursion
+  - hard
+---
 # Regular Expression Matching (LC 10)
 
 **Difficulty**: Hard  

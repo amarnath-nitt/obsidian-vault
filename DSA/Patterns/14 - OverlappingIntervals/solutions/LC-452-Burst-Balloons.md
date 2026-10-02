@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Overlapping Intervals
+lc_number: 452
+date_solved: 
+tags:
+  - dsa
+  - overlapping-intervals
+  - medium
+---
 # Minimum Number of Arrows to Burst Balloons (LC 452)
 
 **Difficulty**: Medium  

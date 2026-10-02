@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Shortest Path
+lc_number: 1091
+date_solved: 
+tags:
+  - dsa
+  - shortest-path
+  - medium
+---
 # Shortest Path in Binary Matrix (LC 1091)
 
 **Difficulty**: Medium  

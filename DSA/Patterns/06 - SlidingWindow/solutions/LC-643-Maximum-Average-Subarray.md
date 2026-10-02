@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Sliding Window
+lc_number: 643
+date_solved: 
+tags:
+  - dsa
+  - sliding-window
+  - easy
+---
 # Maximum Average Subarray I (LC 643)
 
 **Difficulty**: Easy  

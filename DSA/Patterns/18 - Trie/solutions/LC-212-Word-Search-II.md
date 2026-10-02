@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Trie
+lc_number: 212
+date_solved: 
+tags:
+  - dsa
+  - trie
+  - hard
+---
 # Word Search II (LC 212)
 
 **Difficulty**: Hard  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Sliding Window
+lc_number: 424
+date_solved: 
+tags:
+  - dsa
+  - sliding-window
+  - medium
+---
 # Longest Repeating Character Replacement (LC 424)
 
 **Difficulty**: Medium  

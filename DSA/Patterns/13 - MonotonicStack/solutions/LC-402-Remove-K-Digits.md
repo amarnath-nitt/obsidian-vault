@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Monotonic Stack
+lc_number: 402
+date_solved: 
+tags:
+  - dsa
+  - monotonic-stack
+  - medium
+---
 # Remove K Digits (LC 402)
 
 **Difficulty**: Medium  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Depth First Search
+lc_number: 797
+date_solved: 
+tags:
+  - dsa
+  - depth-first-search
+  - medium
+---
 # All Paths From Source to Target
 
 [Problem Link](https://leetcode.com/problems/all-paths-from-source-to-target/)

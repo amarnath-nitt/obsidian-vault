@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Fast Slow Pointers
+lc_number: 142
+date_solved: 
+tags:
+  - dsa
+  - fast-slow-pointers
+  - medium
+---
 # Linked List Cycle II (LC 142)
 
 **Difficulty**: Medium  

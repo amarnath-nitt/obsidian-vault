@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Dynamic Programming
+lc_number: 91
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - medium
+---
 # Decode Ways (LC 91)
 
 **Difficulty**: Medium  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Monotonic Stack
+lc_number: 85
+date_solved: 
+tags:
+  - dsa
+  - monotonic-stack
+  - hard
+---
 # Maximal Rectangle (LC 85)
 
 **Difficulty**: Hard  

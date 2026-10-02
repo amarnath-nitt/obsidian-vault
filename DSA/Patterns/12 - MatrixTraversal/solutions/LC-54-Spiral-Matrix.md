@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Matrix Traversal
+lc_number: 54
+date_solved: 
+tags:
+  - dsa
+  - matrix-traversal
+  - medium
+---
 # Spiral Matrix (LC 54)
 
 **Difficulty**: Medium  

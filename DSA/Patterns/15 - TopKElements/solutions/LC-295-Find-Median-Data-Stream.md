@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Top KElements
+lc_number: 295
+date_solved: 
+tags:
+  - dsa
+  - top-kelements
+  - hard
+---
 # Find Median from Data Stream
 
 [Problem Link](https://leetcode.com/problems/find-median-from-data-stream/)

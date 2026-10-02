@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Dynamic Programming
+lc_number: 123
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - hard
+---
 # Best Time to Buy and Sell Stock III
 
 [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)

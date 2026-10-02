@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Monotonic Stack
+lc_number: 901
+date_solved: 
+tags:
+  - dsa
+  - monotonic-stack
+  - medium
+---
 # Online Stock Span (LC 901)
 
 **Difficulty**: Medium  

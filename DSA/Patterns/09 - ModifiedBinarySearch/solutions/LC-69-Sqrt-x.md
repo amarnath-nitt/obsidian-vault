@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Modified Binary Search
+lc_number: 69
+date_solved: 
+tags:
+  - dsa
+  - modified-binary-search
+  - easy
+---
 # Sqrt(x) (LC 69)
 
 **Difficulty**: Easy  

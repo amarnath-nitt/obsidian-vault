@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Depth First Search
+lc_number: 101
+date_solved: 
+tags:
+  - dsa
+  - depth-first-search
+  - easy
+---
 # Symmetric Tree
 
 [Problem Link](https://leetcode.com/problems/symmetric-tree/)

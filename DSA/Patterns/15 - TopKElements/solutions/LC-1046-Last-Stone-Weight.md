@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Top KElements
+lc_number: 1046
+date_solved: 
+tags:
+  - dsa
+  - top-kelements
+  - easy
+---
 # Last Stone Weight (LC 1046)
 
 **Difficulty**: Easy  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Greedy
+lc_number: 135
+date_solved: 
+tags:
+  - dsa
+  - greedy
+  - hard
+---
 # Candy
 
 [Problem Link](https://leetcode.com/problems/candy/)

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Shortest Path
+lc_number: 1514
+date_solved: 
+tags:
+  - dsa
+  - shortest-path
+  - medium
+---
 # Path with Maximum Probability (LC 1514)
 
 **Difficulty**: Medium  

@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Two Pointers
+lc_number: 167
+date_solved: 
+tags:
+  - dsa
+  - two-pointers
+  - medium
+---
 # Two Sum II - Input Array Is Sorted (LC 167)
 
 **Difficulty**: Medium  

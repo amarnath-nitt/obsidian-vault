@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Dynamic Programming
+lc_number: 62
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - medium
+---
 # Unique Paths (LC 62)
 
 **Difficulty**: Medium  

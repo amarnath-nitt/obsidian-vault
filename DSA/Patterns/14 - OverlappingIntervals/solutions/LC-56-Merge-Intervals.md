@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Overlapping Intervals
+lc_number: 56
+date_solved: 
+tags:
+  - dsa
+  - overlapping-intervals
+  - medium
+---
 # Merge Intervals (LC 56)
 
 **Difficulty**: Medium  

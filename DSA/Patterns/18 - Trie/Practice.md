@@ -1,4 +1,4 @@
-# Prefix Search (Trie) - Practice Notes
+﻿# Prefix Search (Trie) - Practice Notes
 
 ## Pattern Overview
 A tree-like data structure for efficient string prefix operations and word searching.

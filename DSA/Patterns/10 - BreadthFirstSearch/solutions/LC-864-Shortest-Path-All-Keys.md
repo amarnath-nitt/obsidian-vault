@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Breadth First Search
+lc_number: 864
+date_solved: 
+tags:
+  - dsa
+  - breadth-first-search
+  - hard
+---
 # Shortest Path to Get All Keys
 
 [Problem Link](https://leetcode.com/problems/shortest-path-to-get-all-keys/)

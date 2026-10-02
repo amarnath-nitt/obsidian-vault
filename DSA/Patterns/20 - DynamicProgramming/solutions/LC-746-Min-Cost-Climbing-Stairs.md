@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Dynamic Programming
+lc_number: 746
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - easy
+---
 # Min Cost Climbing Stairs
 
 [Problem Link](https://leetcode.com/problems/min-cost-climbing-stairs/)

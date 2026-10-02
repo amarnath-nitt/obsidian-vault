@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Top KElements
+lc_number: 215
+date_solved: 
+tags:
+  - dsa
+  - top-kelements
+  - medium
+---
 # Kth Largest Element in an Array (LC 215)
 
 **Difficulty**: Medium  

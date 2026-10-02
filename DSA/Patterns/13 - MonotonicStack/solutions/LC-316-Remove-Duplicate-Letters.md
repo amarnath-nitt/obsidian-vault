@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Monotonic Stack
+lc_number: 316
+date_solved: 
+tags:
+  - dsa
+  - monotonic-stack
+  - medium
+---
 # Remove Duplicate Letters (LC 316)
 
 **Difficulty**: Medium  

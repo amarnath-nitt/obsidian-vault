@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Overlapping Intervals
+lc_number: 435
+date_solved: 
+tags:
+  - dsa
+  - overlapping-intervals
+  - medium
+---
 # Non-overlapping Intervals (LC 435)
 
 **Difficulty**: Medium  

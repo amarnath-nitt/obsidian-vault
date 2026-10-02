@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Trie
+lc_number: 211
+date_solved: 
+tags:
+  - dsa
+  - trie
+  - medium
+---
 # Design Add and Search Words Data Structure (LC 211)
 
 **Difficulty**: Medium  

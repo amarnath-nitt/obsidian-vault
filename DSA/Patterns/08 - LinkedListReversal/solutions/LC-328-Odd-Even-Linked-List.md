@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Linked List Reversal
+lc_number: 328
+date_solved: 
+tags:
+  - dsa
+  - linked-list-reversal
+  - medium
+---
 # Odd Even Linked List
 
 [Problem Link](https://leetcode.com/problems/odd-even-linked-list/)

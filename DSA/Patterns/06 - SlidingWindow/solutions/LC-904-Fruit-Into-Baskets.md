@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Sliding Window
+lc_number: 904
+date_solved: 
+tags:
+  - dsa
+  - sliding-window
+  - medium
+---
 # Fruit Into Baskets
 
 [Problem Link](https://leetcode.com/problems/fruit-into-baskets/)

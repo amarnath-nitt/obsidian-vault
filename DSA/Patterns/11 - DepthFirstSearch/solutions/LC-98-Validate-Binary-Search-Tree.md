@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Depth First Search
+lc_number: 98
+date_solved: 
+tags:
+  - dsa
+  - depth-first-search
+  - medium
+---
 # Validate Binary Search Tree
 
 [Problem Link](https://leetcode.com/problems/validate-binary-search-tree/)

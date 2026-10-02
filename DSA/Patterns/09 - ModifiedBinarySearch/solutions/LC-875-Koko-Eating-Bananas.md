@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Modified Binary Search
+lc_number: 875
+date_solved: 
+tags:
+  - dsa
+  - modified-binary-search
+  - medium
+---
 # Koko Eating Bananas (LC 875)
 
 **Difficulty**: Medium  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Breadth First Search
+lc_number: 542
+date_solved: 
+tags:
+  - dsa
+  - breadth-first-search
+  - medium
+---
 # 01 Matrix (LC 542)
 
 **Difficulty**: Medium  

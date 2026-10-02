@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Matrix Traversal
+lc_number: 305
+date_solved: 
+tags:
+  - dsa
+  - matrix-traversal
+  - hard
+---
 # Number of Islands II
 
 [Problem Link](https://leetcode.com/problems/number-of-islands-ii/)

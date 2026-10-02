@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Modified Binary Search
+lc_number: 34
+date_solved: 
+tags:
+  - dsa
+  - modified-binary-search
+  - medium
+---
 # Find First and Last Position of Element in Sorted Array (LC 34)
 
 **Difficulty**: Medium  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Dynamic Programming
+lc_number: 70
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - easy
+---
 # Climbing Stairs (LC 70)
 
 **Difficulty**: Easy  

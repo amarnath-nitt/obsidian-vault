@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Fast Slow Pointers
+lc_number: 234
+date_solved: 
+tags:
+  - dsa
+  - fast-slow-pointers
+  - easy
+---
 # Palindrome Linked List (LC 234)
 
 **Difficulty**: Easy  

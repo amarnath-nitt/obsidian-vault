@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Two Pointers
+lc_number: 15
+date_solved: 
+tags:
+  - dsa
+  - two-pointers
+  - medium
+---
 # 3Sum (LC 15)
 
 **Difficulty**: Medium  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Binary Tree Traversal
+lc_number: 314
+date_solved: 
+tags:
+  - dsa
+  - binary-tree-traversal
+  - hard
+---
 # Binary Tree Vertical Order Traversal
 
 [Problem Link](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)

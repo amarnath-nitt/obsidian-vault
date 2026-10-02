@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Backtracking
+lc_number: 37
+date_solved: 
+tags:
+  - dsa
+  - backtracking
+  - hard
+---
 # Sudoku Solver (LC 37)
 
 **Difficulty**: Hard  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Bit Manipulation
+lc_number: 260
+date_solved: 
+tags:
+  - dsa
+  - bit-manipulation
+  - medium
+---
 # Single Number III (LC 260)
 
 **Difficulty**: Medium  

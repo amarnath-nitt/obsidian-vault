@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Shortest Path
+lc_number: 210
+date_solved: 
+tags:
+  - dsa
+  - shortest-path
+  - medium
+---
 # Course Schedule II
 
 [Problem Link](https://leetcode.com/problems/course-schedule-ii/)

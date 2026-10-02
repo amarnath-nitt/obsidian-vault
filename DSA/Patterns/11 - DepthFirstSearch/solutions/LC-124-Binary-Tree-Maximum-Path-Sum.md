@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Depth First Search
+lc_number: 124
+date_solved: 
+tags:
+  - dsa
+  - depth-first-search
+  - hard
+---
 # Binary Tree Maximum Path Sum (LC 124)
 
 **Difficulty**: Hard  

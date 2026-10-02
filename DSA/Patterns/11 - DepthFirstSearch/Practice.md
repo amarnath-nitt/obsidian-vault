@@ -1,4 +1,4 @@
-# Depth-First Search (DFS) - Practice Notes
+﻿# Depth-First Search (DFS) - Practice Notes
 
 ## Pattern Overview
 Explores as far as possible along each branch before backtracking, used for trees and graphs.

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Depth First Search
+lc_number: 200
+date_solved: 
+tags:
+  - dsa
+  - depth-first-search
+  - medium
+---
 # Number of Islands
 
 [Problem Link](https://leetcode.com/problems/number-of-islands/)

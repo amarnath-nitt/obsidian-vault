@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Modified Binary Search
+lc_number: 704
+date_solved: 
+tags:
+  - dsa
+  - modified-binary-search
+  - easy
+---
 # Binary Search (LC 704)
 
 **Difficulty**: Easy  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Shortest Path
+lc_number: 847
+date_solved: 
+tags:
+  - dsa
+  - shortest-path
+  - hard
+---
 # Shortest Path Visiting All Nodes
 
 [Problem Link](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)

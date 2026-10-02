@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Bit Manipulation
+lc_number: 136
+date_solved: 
+tags:
+  - dsa
+  - bit-manipulation
+  - easy
+---
 # Single Number (LC 136)
 
 **Difficulty**: Easy  

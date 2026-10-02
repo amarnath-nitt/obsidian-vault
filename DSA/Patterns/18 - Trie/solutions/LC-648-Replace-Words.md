@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Trie
+lc_number: 648
+date_solved: 
+tags:
+  - dsa
+  - trie
+  - medium
+---
 # Replace Words (LC 648)
 
 **Difficulty**: Medium  

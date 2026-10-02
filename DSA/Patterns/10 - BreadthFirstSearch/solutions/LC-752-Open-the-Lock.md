@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Breadth First Search
+lc_number: 752
+date_solved: 
+tags:
+  - dsa
+  - breadth-first-search
+  - medium
+---
 # Open the Lock (LC 752)
 
 **Difficulty**: Medium  

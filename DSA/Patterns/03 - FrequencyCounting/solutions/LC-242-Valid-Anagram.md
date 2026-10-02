@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Frequency Counting
+lc_number: 242
+date_solved: 
+tags:
+  - dsa
+  - frequency-counting
+  - easy
+---
 # Valid Anagram (LC 242)
 
 **Difficulty**: Easy  

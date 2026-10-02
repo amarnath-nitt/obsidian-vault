@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Monotonic Stack
+lc_number: 739
+date_solved: 
+tags:
+  - dsa
+  - monotonic-stack
+  - medium
+---
 # Daily Temperatures (LC 739)
 
 **Difficulty**: Medium  

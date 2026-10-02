@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Prefix Sum
+lc_number: 724
+date_solved: 
+tags:
+  - dsa
+  - prefix-sum
+  - easy
+---
 # Find Pivot Index (LC 724)
 
 **Difficulty**: Easy  

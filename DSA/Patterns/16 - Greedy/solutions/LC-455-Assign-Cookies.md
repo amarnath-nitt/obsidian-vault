@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Greedy
+lc_number: 455
+date_solved: 
+tags:
+  - dsa
+  - greedy
+  - easy
+---
 # Assign Cookies (LC 455)
 
 **Difficulty**: Easy  

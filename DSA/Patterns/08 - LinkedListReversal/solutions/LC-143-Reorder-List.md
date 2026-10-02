@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Linked List Reversal
+lc_number: 143
+date_solved: 
+tags:
+  - dsa
+  - linked-list-reversal
+  - medium
+---
 # Reorder List
 
 [Problem Link](https://leetcode.com/problems/reorder-list/)

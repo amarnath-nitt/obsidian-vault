@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Hard
+pattern: Frequency Counting
+lc_number: 41
+date_solved: 
+tags:
+  - dsa
+  - frequency-counting
+  - hard
+---
 # First Missing Positive
 
 [Problem Link](https://leetcode.com/problems/first-missing-positive/)

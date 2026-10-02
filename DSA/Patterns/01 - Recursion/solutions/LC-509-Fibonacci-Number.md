@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Recursion
+lc_number: 509
+date_solved: 
+tags:
+  - dsa
+  - recursion
+  - easy
+---
 # Fibonacci Number (LC 509)
 
 **Difficulty**: Easy  

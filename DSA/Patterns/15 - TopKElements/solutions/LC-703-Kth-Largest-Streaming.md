@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Top KElements
+lc_number: 703
+date_solved: 
+tags:
+  - dsa
+  - top-kelements
+  - easy
+---
 # Kth Largest Element in a Stream (LC 703)
 
 **Difficulty**: Easy  

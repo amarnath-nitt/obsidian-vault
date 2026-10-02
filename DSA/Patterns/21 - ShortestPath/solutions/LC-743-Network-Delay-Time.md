@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Shortest Path
+lc_number: 743
+date_solved: 
+tags:
+  - dsa
+  - shortest-path
+  - medium
+---
 # Network Delay Time (LC 743)
 
 **Difficulty**: Medium  

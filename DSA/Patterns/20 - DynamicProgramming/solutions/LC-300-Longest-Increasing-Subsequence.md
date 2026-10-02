@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Dynamic Programming
+lc_number: 300
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - medium
+---
 # Longest Increasing Subsequence (LC 300)
 
 **Difficulty**: Medium  

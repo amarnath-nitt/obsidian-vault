@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Depth First Search
+lc_number: 100
+date_solved: 
+tags:
+  - dsa
+  - depth-first-search
+  - easy
+---
 # Same Tree
 
 [Problem Link](https://leetcode.com/problems/same-tree/)

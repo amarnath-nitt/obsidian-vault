@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Backtracking
+lc_number: 51
+date_solved: 
+tags:
+  - dsa
+  - backtracking
+  - hard
+---
 # N-Queens (LC 51)
 
 **Difficulty**: Hard  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Depth First Search
+lc_number: 113
+date_solved: 
+tags:
+  - dsa
+  - depth-first-search
+  - medium
+---
 # Path Sum II
 
 [Problem Link](https://leetcode.com/problems/path-sum-ii/)

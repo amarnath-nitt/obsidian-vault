@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Prefix Sum
+lc_number: 974
+date_solved: 
+tags:
+  - dsa
+  - prefix-sum
+  - medium
+---
 # Subarray Sums Divisible by K (LC 974)
 
 **Difficulty**: Medium  

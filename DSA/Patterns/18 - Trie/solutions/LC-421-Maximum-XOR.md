@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Trie
+lc_number: 421
+date_solved: 
+tags:
+  - dsa
+  - trie
+  - medium
+---
 # Maximum XOR of Two Numbers in an Array (LC 421)
 
 **Difficulty**: Medium  

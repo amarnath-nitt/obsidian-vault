@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Depth First Search
+lc_number: 230
+date_solved: 
+tags:
+  - dsa
+  - depth-first-search
+  - medium
+---
 # Kth Smallest Element in a BST (LC 230)
 
 **Difficulty**: Medium  

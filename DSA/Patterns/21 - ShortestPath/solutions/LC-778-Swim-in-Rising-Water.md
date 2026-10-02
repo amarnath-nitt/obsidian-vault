@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Shortest Path
+lc_number: 778
+date_solved: 
+tags:
+  - dsa
+  - shortest-path
+  - hard
+---
 # Swim in Rising Water (LC 778)
 
 **Difficulty**: Hard  

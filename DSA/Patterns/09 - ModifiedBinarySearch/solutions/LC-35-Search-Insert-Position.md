@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Modified Binary Search
+lc_number: 35
+date_solved: 
+tags:
+  - dsa
+  - modified-binary-search
+  - easy
+---
 # Search Insert Position (LC 35)
 
 **Difficulty**: Easy  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Trie
+lc_number: 677
+date_solved: 
+tags:
+  - dsa
+  - trie
+  - medium
+---
 # Map Sum Pairs (LC 677)
 
 **Difficulty**: Medium  

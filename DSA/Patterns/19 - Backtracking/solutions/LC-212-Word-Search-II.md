@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Backtracking
+lc_number: 212
+date_solved: 
+tags:
+  - dsa
+  - backtracking
+  - hard
+---
 # Word Search II
 
 [Problem Link](https://leetcode.com/problems/word-search-ii/)

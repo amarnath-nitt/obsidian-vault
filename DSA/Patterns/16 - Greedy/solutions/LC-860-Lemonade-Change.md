@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Greedy
+lc_number: 860
+date_solved: 
+tags:
+  - dsa
+  - greedy
+  - easy
+---
 # Lemonade Change (LC 860)
 
 **Difficulty**: Easy  

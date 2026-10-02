@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Bit Manipulation
+lc_number: 268
+date_solved: 
+tags:
+  - dsa
+  - bit-manipulation
+  - easy
+---
 # Missing Number (LC 268)
 
 **Difficulty**: Easy  

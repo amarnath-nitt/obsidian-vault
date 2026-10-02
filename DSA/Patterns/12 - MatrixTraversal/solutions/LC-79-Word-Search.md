@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Matrix Traversal
+lc_number: 79
+date_solved: 
+tags:
+  - dsa
+  - matrix-traversal
+  - medium
+---
 # Word Search (LC 79)
 
 **Difficulty**: Medium  

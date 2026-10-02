@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Recursion
+lc_number: 231
+date_solved: 
+tags:
+  - dsa
+  - recursion
+  - easy
+---
 # Power of Two (LC 231)
 
 **Difficulty**: Easy  

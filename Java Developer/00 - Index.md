@@ -12,10 +12,12 @@ Welcome to the Java Developer interview preparation vault. This directory is org
 | **Spring Boot**  | [Spring Boot Index](Spring%20Boot/00%20-%20Index.md)       | IoC, DI, REST, JPA, transactions, security, testing                  |
 | **Hibernate**    | [Hibernate Index](Hibernate/00%20-%20Index.md)             | JPA, entity lifecycle, relationships, caching, performance           |
 | **SQL**          | [SQL Index](SQL/00%20-%20Index.md)                         | Joins, aggregations, window functions, practice queries              |
-| **Git & GitHub** | [Git & GitHub Index](Git%20&%20GitHub/00%20-%20Index.md) | Version control, branching, remotes, workflows, cheat sheet          |
+| **Git & GitHub** | [Git & GitHub Index](<Git%20%26%20GitHub/00%20-%20Index.md>) | Version control, branching, remotes, workflows, cheat sheet          |
 | **Practice**     | [Practice Index](Practice/00%20-%20Index.md)               | Solved exercises and code practice                                   |
 | **Reference**    | [Reference Index](Reference/00%20-%20Index.md)             | Quick reference cards and cheat sheets                               |
-| **Roadmap**      | [Roadmap Index](Roadmap/Java-Backend-Interview-Roadmap.md) | Learning path and topic dependencies                                 |
+| **Roadmap**      | [Java Backend Roadmap](Roadmap/Java-Backend-Interview-Roadmap.md) | Learning path and topic dependencies                                 |
+| **Final Sprint** | [24-Hours Final Sprint](Final-Sprint-24-Hours-Before-Interview.md) | Last-minute revision checklist                                  |
+| **Vault Home**   | [DSA Index](../DSA/00%20-%20Index.md) | Algorithms, patterns, LeetCode, and coding practice                      |
 
 ---
 
@@ -57,7 +59,8 @@ Check off topics as you complete them:
 - [Java Backend Interview Roadmap](Roadmap/Java-Backend-Interview-Roadmap.md) — topic dependencies
 - [LLD Roadmap](../LLD/00%20-%20Roadmap.md) — Low-Level Design practice problems
 - [HLD Index](../HLD/00%20-%20Index.md) — High-Level Design, system design, Docker, Kafka
-- [DSA Patterns](DSA/Patterns/00%20-%20Index.md) — Data structures & algorithms by pattern
+- [DSA Main Index](../DSA/00%20-%20Index.md) — DSA patterns, LeetCode, and practice plans
+- [DSA Patterns](../DSA/Patterns/00%20-%20Index.md) — Data structures & algorithms by pattern
 - [LeetCode Index](../DSA/LeetCode/00%20-%20Index.md) — LeetCode problems and solutions
 
 ---
@@ -179,7 +182,7 @@ At the end of every week, fill this in:
 
 ## Related Notes
 
-- [Java Developer README](../README.md)
-- [Java Backend Interview Roadmap](../Roadmap/Java-Backend-Interview-Roadmap.md)
+- [Java Developer README](README.md)
+- [Java Backend Interview Roadmap](Roadmap/Java-Backend-Interview-Roadmap.md)
 - [LLD Roadmap](../LLD/00%20-%20Roadmap.md)
-- [DSA Patterns](DSA/Patterns/00%20-%20Index.md)
+- [DSA Main Index](../DSA/00%20-%20Index.md)

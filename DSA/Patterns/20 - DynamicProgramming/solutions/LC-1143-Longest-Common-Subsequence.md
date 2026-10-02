@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Dynamic Programming
+lc_number: 1143
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - medium
+---
 # Longest Common Subsequence (LC 1143)
 
 **Difficulty**: Medium  

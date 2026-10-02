@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Two Pointers
+lc_number: 18
+date_solved: 
+tags:
+  - dsa
+  - two-pointers
+  - hard
+---
 # 4Sum
 
 [Problem Link](https://leetcode.com/problems/4sum/)

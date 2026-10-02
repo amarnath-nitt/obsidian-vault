@@ -1,8 +1,6 @@
-# Top 75 LeetCode Problems - Master Index
+# Top 75 LeetCode Problems — Master Index
 
-A curated list of 75 essential LeetCode problems for technical interview preparation. Each problem includes naive and optimized solutions in Java with detailed complexity analysis.
-
-For difficulty-based study order, use [Difficulty-Roadmap.md](Difficulty-Roadmap.md). This file remains the topic-based master index.
+A curated list of 75 essential LeetCode problems for technical interview preparation. Each problem includes naive and optimized solutions in Java with detailed complexity analysis. Click the checkboxes (`- [ ]` / `- [x]`) to toggle completion status directly in Obsidian!
 
 ---
 
@@ -16,167 +14,167 @@ For difficulty-based study order, use [Difficulty-Roadmap.md](Difficulty-Roadmap
 
 > **Rule of thumb:** If a Hard problem feels impossible, solve two Medium problems from the same pattern first.
 
----
-
-## 📊 Progress Tracker
-
-*Toggle the checkboxes directly in Obsidian's Live Preview or Reading Mode to track your progress!*
-
----
-
 ## Arrays & Hashing (9 problems)
 
-- [x] **217** · [[Contains-Duplicate\|Contains Duplicate]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/contains-duplicate/)
-- [x] **242** · [[Valid-Anagram\|Valid Anagram]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/valid-anagram/)
-- [x] **1** · [[Two-Sum\|Two Sum]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/two-sum/)
-- [x] **49** · [[Group-Anagrams\|Group Anagrams]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/group-anagrams/)
-- [x] **347** · [[Top-K-Frequent-Elements\|Top K Frequent Elements]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)
-- [x] **238** · [[Product-of-Array-Except-Self\|Product of Array Except Self]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/product-of-array-except-self/)
-- [x] **128** · [[Longest-Consecutive-Sequence\|Longest Consecutive Sequence]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [x] **125** · [[Valid-Palindrome\|Valid Palindrome]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/valid-palindrome/)
-- [x] **271** · [[Encode-and-Decode-Strings\|Encode and Decode Strings]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/encode-and-decode-strings/)
+- [ ] 1. [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) (LC 217) | [Solution](Arrays-Hashing/Contains-Duplicate.md) — *Easy*
+- [ ] 2. [Valid Anagram](https://leetcode.com/problems/valid-anagram/) (LC 242) | [Solution](Arrays-Hashing/Valid-Anagram.md) — *Easy*
+- [ ] 3. [Two Sum](https://leetcode.com/problems/two-sum/) (LC 1) | [Solution](Arrays-Hashing/Two-Sum.md) — *Easy*
+- [ ] 4. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (LC 125) | [Solution](Arrays-Hashing/Valid-Palindrome.md) — *Easy* — *see also: Two Pointers*
+- [ ] 5. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (LC 49) | [Solution](Arrays-Hashing/Group-Anagrams.md) — *Medium*
+- [ ] 6. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (LC 347) | [Solution](Arrays-Hashing/Top-K-Frequent-Elements.md) — *Medium*
+- [ ] 7. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) (LC 238) | [Solution](Arrays-Hashing/Product-of-Array-Except-Self.md) — *Medium*
+- [ ] 8. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (LC 128) | [Solution](Arrays-Hashing/Longest-Consecutive-Sequence.md) — *Medium*
+- [ ] 9. [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) (LC 271) | [Solution](Arrays-Hashing/Encode-and-Decode-Strings.md) — *Medium*
 
 ---
 
 ## Two Pointers (2 problems)
 
-- [x] **15** · [[Three-Sum\|Three Sum]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/3sum/)
-- [x] **11** · [[Container-With-Most-Water\|Container With Most Water]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/container-with-most-water/)
+- [ ] 1. [Three Sum](https://leetcode.com/problems/3sum/) (LC 15) | [Solution](Two-Pointers/Three-Sum.md) — *Medium*
+- [ ] 2. [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) (LC 11) | [Solution](Two-Pointers/Container-With-Most-Water.md) — *Medium*
 
 ---
 
 ## Sliding Window (3 problems)
 
-- [x] **3** · [[Longest-Substring-Without-Repeating-Characters\|Longest Substring Without Repeating Characters]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [x] **424** · [[Longest-Repeating-Character-Replacement\|Longest Repeating Character Replacement]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] **76** · [[Minimum-Window-Substring\|Minimum Window Substring]] — *Hard* · [🔗 LeetCode](https://leetcode.com/problems/minimum-window-substring/)
+- [ ] 1. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (LC 3) | [Solution](Sliding-Window/Longest-Substring-Without-Repeating-Characters.md) — *Medium*
+- [ ] 2. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) (LC 424) | [Solution](Sliding-Window/Longest-Repeating-Character-Replacement.md) — *Medium*
+- [ ] 3. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) (LC 76) | [Solution](Sliding-Window/Minimum-Window-Substring.md) — *Hard*
+
+---
+
+## Linked Lists (7 problems)
+
+- [ ] 1. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) (LC 206) | [Solution](Linked-Lists/Reverse-Linked-List.md) — *Easy*
+- [ ] 2. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) (LC 21) | [Solution](Linked-Lists/Merge-Two-Sorted-Lists.md) — *Easy*
+- [ ] 3. [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) (LC 141) | [Solution](Linked-Lists/Linked-List-Cycle.md) — *Easy*
+- [ ] 4. [Reorder List](https://leetcode.com/problems/reorder-list/) (LC 143) | [Solution](Linked-Lists/Reorder-List.md) — *Medium*
+- [ ] 5. [Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) (LC 19) | [Solution](Linked-Lists/Remove-Nth-Node-From-End.md) — *Medium*
+- [ ] 6. [Copy List With Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) (LC 138) | [Solution](Linked-Lists/Copy-List-With-Random-Pointer.md) — *Medium*
+- [ ] 7. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) (LC 2) | [Solution](Linked-Lists/Add-Two-Numbers.md) — *Medium*
 
 ---
 
 ## Stack (3 problems)
 
-- [x] **20** · [[Valid-Parentheses\|Valid Parentheses]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/valid-parentheses/)
-- [x] **155** · [[Min-Stack\|Min Stack]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/min-stack/)
-- [x] **150** · [[Evaluate-Reverse-Polish-Notation\|Evaluate Reverse Polish Notation]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
+- [ ] 1. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (LC 20) | [Solution](Stack/Valid-Parentheses.md) — *Easy*
+- [ ] 2. [Min Stack](https://leetcode.com/problems/min-stack/) (LC 155) | [Solution](Stack/Min-Stack.md) — *Medium*
+- [ ] 3. [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) (LC 150) | [Solution](Stack/Evaluate-Reverse-Polish-Notation.md) — *Medium*
 
 ---
 
 ## Binary Search (2 problems)
 
-- [x] **153** · [[Find-Minimum-in-Rotated-Sorted-Array\|Find Minimum in Rotated Sorted Array]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [x] **33** · [[Search-in-Rotated-Sorted-Array\|Search in Rotated Sorted Array]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-
----
-
-## Linked Lists (8 problems)
-
-- [x] **206** · [[Reverse-Linked-List\|Reverse Linked List]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/reverse-linked-list/)
-- [x] **21** · [[Merge-Two-Sorted-Lists\|Merge Two Sorted Lists]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [x] **143** · [[Reorder-List\|Reorder List]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/reorder-list/)
-- [ ] **19** · [[Remove-Nth-Node-From-End\|Remove Nth Node From End]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-- [ ] **138** · [[Copy-List-With-Random-Pointer\|Copy List With Random Pointer]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/)
-- [ ] **2** · [[Add-Two-Numbers\|Add Two Numbers]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/add-two-numbers/)
-- [ ] **141** · [[Linked-List-Cycle\|Linked List Cycle]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/linked-list-cycle/)
-- [ ] **23** · [[Merge-K-Sorted-Lists\|Merge K Sorted Lists]] — *Hard* · [🔗 LeetCode](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [ ] 1. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) (LC 153) | [Solution](Binary-Search/Find-Minimum-in-Rotated-Sorted-Array.md) — *Medium*
+- [ ] 2. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (LC 33) | [Solution](Binary-Search/Search-in-Rotated-Sorted-Array.md) — *Medium*
 
 ---
 
 ## Trees (15 problems)
 
-- [ ] **226** · [[Invert-Binary-Tree\|Invert Binary Tree]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/invert-binary-tree/)
-- [ ] **104** · [[Maximum-Depth-of-Binary-Tree\|Maximum Depth of Binary Tree]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
-- [ ] **100** · [[Same-Tree\|Same Tree]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/same-tree/)
-- [ ] **572** · [[Subtree-of-Another-Tree\|Subtree of Another Tree]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/subtree-of-another-tree/)
-- [ ] **102** · [[Binary-Tree-Level-Order-Traversal\|Binary Tree Level Order Traversal]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/binary-tree-level-order-traversal/)
-- [ ] **98** · [[Validate-Binary-Search-Tree\|Validate Binary Search Tree]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/validate-binary-search-tree/)
-- [ ] **230** · [[Kth-Smallest-Element-in-BST\|Kth Smallest Element in BST]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
-- [ ] **105** · [[Construct-Binary-Tree-from-Preorder-and-Inorder\|Construct Binary Tree from Preorder and Inorder]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
-- [ ] **124** · [[Binary-Tree-Maximum-Path-Sum\|Binary Tree Maximum Path Sum]] — *Hard* · [🔗 LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-- [ ] **297** · [[Serialize-and-Deserialize-Binary-Tree\|Serialize and Deserialize Binary Tree]] — *Hard* · [🔗 LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)
-- [ ] **101** · [[Symmetric-Tree\|Symmetric Tree]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/symmetric-tree/)
-- [ ] **199** · [[Binary-Tree-Right-Side-View\|Binary Tree Right Side View]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/)
-- [x] **236** · [[Lowest-Common-Ancestor-of-Binary-Tree\|Lowest Common Ancestor of Binary Tree]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-- [ ] **1448** · [[Good-Nodes-in-Binary-Tree\|Good Nodes in Binary Tree]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
-- [ ] **450** · [[Delete-Node-in-BST\|Delete Node in BST]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/delete-node-in-bst/)
+- [ ] 1. [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) (LC 226) | [Solution](Trees/Invert-Binary-Tree.md) — *Easy*
+- [ ] 2. [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) (LC 104) | [Solution](Trees/Maximum-Depth-of-Binary-Tree.md) — *Easy*
+- [ ] 3. [Same Tree](https://leetcode.com/problems/same-tree/) (LC 100) | [Solution](Trees/Same-Tree.md) — *Easy*
+- [ ] 4. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) (LC 572) | [Solution](Trees/Subtree-of-Another-Tree.md) — *Easy*
+- [ ] 5. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) (LC 101) | [Solution](Trees/Symmetric-Tree.md) — *Easy*
+- [ ] 6. [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (LC 102) | [Solution](Trees/Binary-Tree-Level-Order-Traversal.md) — *Medium*
+- [ ] 7. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) (LC 98) | [Solution](Trees/Validate-Binary-Search-Tree.md) — *Medium*
+- [ ] 8. [Kth Smallest Element in BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (LC 230) | [Solution](Trees/Kth-Smallest-Element-in-BST.md) — *Medium*
+- [ ] 9. [Construct Binary Tree from Preorder and Inorder](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) (LC 105) | [Solution](Trees/Construct-Binary-Tree-from-Preorder-and-Inorder.md) — *Medium*
+- [ ] 10. [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) (LC 199) | [Solution](Trees/Binary-Tree-Right-Side-View.md) — *Medium*
+- [ ] 11. [Lowest Common Ancestor of Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (LC 236) | [Solution](Trees/Lowest-Common-Ancestor-of-Binary-Tree.md) — *Medium*
+- [ ] 12. [Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) (LC 1448) | [Solution](Trees/Good-Nodes-in-Binary-Tree.md) — *Medium*
+- [ ] 13. [Delete Node in BST](https://leetcode.com/problems/delete-node-in-bst/) (LC 450) | [Solution](Trees/Delete-Node-in-BST.md) — *Medium*
+- [ ] 14. [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) (LC 124) | [Solution](Trees/Binary-Tree-Maximum-Path-Sum.md) — *Hard*
+- [ ] 15. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) (LC 297) | [Solution](Trees/Serialize-and-Deserialize-Binary-Tree.md) — *Hard*
 
 ---
 
 ## Tries (2 problems)
 
-- [ ] **208** · [[Implement-Trie\|Implement Trie]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/)
-- [ ] **211** · [[Add-and-Search-Word\|Add and Search Word]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/design-add-and-search-words-data-structure/)
+- [ ] 1. [Implement Trie](https://leetcode.com/problems/implement-trie-prefix-tree/) (LC 208) | [Solution](Tries/Implement-Trie.md) — *Medium*
+- [ ] 2. [Add and Search Word](https://leetcode.com/problems/design-add-and-search-words-data-structure/) (LC 211) | [Solution](Tries/Add-and-Search-Word.md) — *Medium*
+
+---
+
+## Heap / Priority Queue (2 problems)
+
+- [ ] 1. [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) (LC 295) | [Solution](Heap/Find-Median-from-Data-Stream.md) — *Hard*
+- [ ] 2. [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) (LC 23) | [Solution](Linked-Lists/Merge-K-Sorted-Lists.md) — *Hard*
 
 ---
 
 ## Graphs (8 problems)
 
-- [ ] **200** · [[Number-of-Islands\|Number of Islands]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/number-of-islands/)
-- [ ] **133** · [[Clone-Graph\|Clone Graph]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/clone-graph/)
-- [ ] **417** · [[Pacific-Atlantic-Water-Flow\|Pacific Atlantic Water Flow]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/pacific-atlantic-water-flow/)
-- [ ] **207** · [[Course-Schedule\|Course Schedule]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/course-schedule/)
-- [ ] **210** · [[Course-Schedule-II\|Course Schedule II]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/course-schedule-ii/)
-- [ ] **261** · [[Graph-Valid-Tree\|Graph Valid Tree]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/graph-valid-tree/)
-- [ ] **323** · [[Number-of-Connected-Components\|Number of Connected Components]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)
-- [ ] **269** · [[Alien-Dictionary\|Alien Dictionary]] — *Hard* · [🔗 LeetCode](https://leetcode.com/problems/alien-dictionary/)
+- [ ] 1. [Number of Islands](https://leetcode.com/problems/number-of-islands/) (LC 200) | [Solution](Graphs/Number-of-Islands.md) — *Medium*
+- [ ] 2. [Clone Graph](https://leetcode.com/problems/clone-graph/) (LC 133) | [Solution](Graphs/Clone-Graph.md) — *Medium*
+- [ ] 3. [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) (LC 417) | [Solution](Graphs/Pacific-Atlantic-Water-Flow.md) — *Medium*
+- [ ] 4. [Course Schedule](https://leetcode.com/problems/course-schedule/) (LC 207) | [Solution](Graphs/Course-Schedule.md) — *Medium*
+- [ ] 5. [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) (LC 210) | [Solution](Graphs/Course-Schedule-II.md) — *Medium*
+- [ ] 6. [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) (LC 261) | [Solution](Graphs/Graph-Valid-Tree.md) — *Medium*
+- [ ] 7. [Number of Connected Components](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) (LC 323) | [Solution](Graphs/Number-of-Connected-Components.md) — *Medium*
+- [ ] 8. [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) (LC 269) | [Solution](Graphs/Alien-Dictionary.md) — *Hard*
 
 ---
 
 ## Dynamic Programming (10 problems)
 
-- [ ] **70** · [[Climbing-Stairs\|Climbing Stairs]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/climbing-stairs/)
-- [ ] **322** · [[Coin-Change\|Coin Change]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/coin-change/)
-- [ ] **300** · [[Longest-Increasing-Subsequence\|Longest Increasing Subsequence]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/longest-increasing-subsequence/)
-- [ ] **139** · [[Word-Break\|Word Break]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/word-break/)
-- [ ] **39** · [[Combination-Sum\|Combination Sum]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/combination-sum/)
-- [ ] **198** · [[House-Robber\|House Robber]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/house-robber/)
-- [ ] **213** · [[House-Robber-II\|House Robber II]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/house-robber-ii/)
-- [ ] **91** · [[Decode-Ways\|Decode Ways]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/decode-ways/)
-- [ ] **62** · [[Unique-Paths\|Unique Paths]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/unique-paths/)
-- [ ] **55** · [[Jump-Game\|Jump Game]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/jump-game/)
-
----
-
-## Intervals (5 problems)
-
-- [ ] **56** · [[Merge-Intervals\|Merge Intervals]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/merge-intervals/)
-- [ ] **57** · [[Insert-Interval\|Insert Interval]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/insert-interval/)
-- [ ] **435** · [[Non-Overlapping-Intervals\|Non Overlapping Intervals]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/non-overlapping-intervals/)
-- [ ] **252** · [[Meeting-Rooms\|Meeting Rooms]] — *Easy* · [🔗 LeetCode](https://leetcode.com/problems/meeting-rooms/)
-- [ ] **253** · [[Meeting-Rooms-II\|Meeting Rooms II]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/meeting-rooms-ii/)
+- [ ] 1. [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) (LC 70) | [Solution](Dynamic-Programming/Climbing-Stairs.md) — *Easy*
+- [ ] 2. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) (LC 5) | [Solution](Dynamic-Programming/Longest-Palindromic-Substring.md) — *Medium*
+- [ ] 3. [Coin Change](https://leetcode.com/problems/coin-change/) (LC 322) | [Solution](Dynamic-Programming/Coin-Change.md) — *Medium*
+- [ ] 4. [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (LC 300) | [Solution](Dynamic-Programming/Longest-Increasing-Subsequence.md) — *Medium*
+- [ ] 5. [Word Break](https://leetcode.com/problems/word-break/) (LC 139) | [Solution](Dynamic-Programming/Word-Break.md) — *Medium*
+- [ ] 6. [House Robber](https://leetcode.com/problems/house-robber/) (LC 198) | [Solution](Dynamic-Programming/House-Robber.md) — *Medium*
+- [ ] 7. [House Robber II](https://leetcode.com/problems/house-robber-ii/) (LC 213) | [Solution](Dynamic-Programming/House-Robber-II.md) — *Medium*
+- [ ] 8. [Decode Ways](https://leetcode.com/problems/decode-ways/) (LC 91) | [Solution](Dynamic-Programming/Decode-Ways.md) — *Medium*
+- [ ] 9. [Unique Paths](https://leetcode.com/problems/unique-paths/) (LC 62) | [Solution](Dynamic-Programming/Unique-Paths.md) — *Medium*
+- [ ] 10. [Jump Game](https://leetcode.com/problems/jump-game/) (LC 55) | [Solution](Dynamic-Programming/Jump-Game.md) — *Medium*
 
 ---
 
 ## Backtracking (4 problems)
 
-- [ ] **78** · [[Subsets\|Subsets]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/subsets/)
-- [ ] **46** · [[Permutations\|Permutations]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/permutations/)
-- [ ] **79** · [[Word-Search\|Word Search]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/word-search/)
-- [ ] **39** · [[Combination-Sum-Backtracking\|Combination Sum (Backtracking)]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/combination-sum/)
+- [ ] 1. [Subsets](https://leetcode.com/problems/subsets/) (LC 78) | [Solution](Backtracking/Subsets.md) — *Medium*
+- [ ] 2. [Permutations](https://leetcode.com/problems/permutations/) (LC 46) | [Solution](Backtracking/Permutations.md) — *Medium*
+- [ ] 3. [Word Search](https://leetcode.com/problems/word-search/) (LC 79) | [Solution](Backtracking/Word-Search.md) — *Medium*
+- [ ] 4. [Combination Sum](https://leetcode.com/problems/combination-sum/) (LC 39) | [Solution](Backtracking/Combination-Sum-Backtracking.md) — *Medium*
+
+---
+
+## Intervals (5 problems)
+
+- [ ] 1. [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) (LC 252) | [Solution](Intervals/Meeting-Rooms.md) — *Easy*
+- [ ] 2. [Merge Intervals](https://leetcode.com/problems/merge-intervals/) (LC 56) | [Solution](Intervals/Merge-Intervals.md) — *Medium*
+- [ ] 3. [Insert Interval](https://leetcode.com/problems/insert-interval/) (LC 57) | [Solution](Intervals/Insert-Interval.md) — *Medium*
+- [ ] 4. [Non Overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) (LC 435) | [Solution](Intervals/Non-Overlapping-Intervals.md) — *Medium*
+- [ ] 5. [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) (LC 253) | [Solution](Intervals/Meeting-Rooms-II.md) — *Medium*
 
 ---
 
 ## Matrix (3 problems)
 
-- [ ] **73** · [[Set-Matrix-Zeroes\|Set Matrix Zeroes]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/set-matrix-zeroes/)
-- [ ] **54** · [[Spiral-Matrix\|Spiral Matrix]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/spiral-matrix/)
-- [ ] **48** · [[Rotate-Image\|Rotate Image]] — *Medium* · [🔗 LeetCode](https://leetcode.com/problems/rotate-image/)
+- [ ] 1. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) (LC 73) | [Solution](Matrix/Set-Matrix-Zeroes.md) — *Medium*
+- [ ] 2. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) (LC 54) | [Solution](Matrix/Spiral-Matrix.md) — *Medium*
+- [ ] 3. [Rotate Image](https://leetcode.com/problems/rotate-image/) (LC 48) | [Solution](Matrix/Rotate-Image.md) — *Medium*
 
 ---
 
-## Heap / Priority Queue (1 problem)
+## 🔗 Related Notes
 
-- [ ] **295** · [[Find-Median-from-Data-Stream\|Find Median from Data Stream]] — *Hard* · [🔗 LeetCode](https://leetcode.com/problems/find-median-from-data-stream/)
+- [[../00 - Index|LeetCode Master Index]]
+- [[../SDE_Sheet/SDE-Sheet-Index|SDE Sheet Index]]
+- [[../../Patterns/00 - Index|Patterns Index]]
 
 ---
 
 ## Study Tips
 
 1. **Start with Easy problems** to build confidence.
-2. **Focus on patterns** - many problems use similar techniques.
-3. **Understand both approaches** - naive and optimized.
-4. **Practice complexity analysis** - crucial for interviews.
-5. **Review related problems** - reinforces patterns.
+2. **Focus on patterns** — many problems use similar techniques.
+3. **Understand both approaches** — naive and optimized.
+4. **Practice complexity analysis** — crucial for interviews.
+5. **Review related problems** — reinforces patterns.
 
 ---
 
-*Last Updated: June 24, 2026*
+*Last Updated: October 2, 2026*

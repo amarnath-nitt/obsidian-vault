@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Binary Tree Traversal
+lc_number: 102
+date_solved: 
+tags:
+  - dsa
+  - binary-tree-traversal
+  - medium
+---
 # Binary Tree Level Order Traversal (LC 102)
 
 **Difficulty**: Medium  

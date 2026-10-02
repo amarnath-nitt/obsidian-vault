@@ -1,30 +1,40 @@
-# LeetCode - Master Index
+# LeetCode — Master Index
 
-Practice problems organized by category for interview preparation. All solutions are in Java.
+Practice problems organized by category for interview preparation. All solutions are in Java. Click the checkboxes (`- [ ]` / `- [x]`) to toggle completion status directly in Obsidian!
 
 ---
 
-## 📂 Problem Sets
+## 🎯 Problem Sets
 
-| Set | Description | Link |
-|---|---|---|
-| **Blind 75** | 75 essential problems for technical interviews (topic-based) | [Top 75 Index](Blind75/Top-75-Index.md) |
-| **Blind 75 Difficulty** | Same 75 problems organized by difficulty | [Difficulty Roadmap](Blind75/Difficulty-Roadmap.md) |
-| **SDE Sheet** | 30-day grind covering 150+ problems | [SDE Sheet Index](SDE_Sheet/SDE-Sheet-Index.md) |
-| **Design Problems** | System design / OOP design problems (LRU Cache, Trie, etc.) | [Design Index](Design/Design-Index.md) |
+### 🟢 Core Sets
+
+- [ ] **Blind 75** — 75 essential problems for technical interviews (topic-based)
+  - Entry point: [[Blind75/Top-75-Index|Top 75 Index]]
+  - Contains: solutions grouped across 15 topic folders (Arrays & Hashing, Two Pointers, Sliding Window, Graphs, DP, …)
+  - Track progress: tick the checkboxes in the linked index (75 problems)
+
+- [ ] **SDE Sheet** — 30-day grind covering ~191 problems (Striver's sheet)
+  - Entry point: [[SDE_Sheet/SDE-Sheet-Index|SDE Sheet Index]]
+  - Contains: 30 day-files, from Arrays through Tries & Bit Manipulation
+  - Track progress: tick the checkboxes in the linked index (30 days)
+
+- [ ] **Design Problems** — System design / OOP design problems (LRU Cache, Trie, etc.)
+  - Entry point: [[Design/Design-Index|Design Index]]
+  - Contains: HashMap, Stack, Trie, Cache, and Social graph designs
+  - Track progress: tick the checkboxes in the linked index (11 problems)
 
 ---
 
 ## 📄 Standalone Topics
 
-- [Course Schedule](Course-Schedule.md) — Topological Sort (LC 207)
-- [Course Schedule II](Course-Schedule-II.md) — Topological Sort with order (LC 210)
-- [Topological Sorting Guide](Topological-Sorting-Guide.md) — In-depth guide to topological sort
-- [Topological Sort Practice](Topological-Sort-Practice.md) — Additional practice problems
+- [[Course Schedule]] — Topological Sort (LC 207)
+- [[Course Schedule II]] — Topological Sort with order (LC 210)
+- [[Topological Sorting Guide]] — In-depth guide to topological sort
+- [[Topological Sort Practice]] — Additional practice problems
 
 ---
 
-## ✅ Recommended Study Order
+## 📚 Recommended Study Order
 
 1. Start with **Blind 75** — solve Easy problems first, then Medium
 2. Use **SDE Sheet** for daily structured practice
@@ -33,14 +43,10 @@ Practice problems organized by category for interview preparation. All solutions
 
 ---
 
-## 📊 Progress Tracking
+## 🔗 Related Notes
 
-Update the checkboxes in each problem set as you solve:
-
-- [ ] [Blind 75 Index](Blind75/Top-75-Index.md) — all 75 problems
-- [ ] [SDE Sheet Index](SDE_Sheet/SDE-Sheet-Index.md) — all 30 days
-- [ ] [Design Index](Design/Design-Index.md) — all design problems
+- [[../00 - Index|DSA Main Index]]
 
 ---
 
-*Last updated: August 14, 2026*
+*Last updated: October 2, 2026*

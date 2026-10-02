@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Breadth First Search
+lc_number: 127
+date_solved: 
+tags:
+  - dsa
+  - breadth-first-search
+  - hard
+---
 # Word Ladder (LC 127)
 
 **Difficulty**: Hard  

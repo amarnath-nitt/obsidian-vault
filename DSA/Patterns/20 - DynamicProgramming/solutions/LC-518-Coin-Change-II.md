@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Dynamic Programming
+lc_number: 518
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - medium
+---
 # Coin Change II (LC 518)
 
 **Difficulty**: Medium  

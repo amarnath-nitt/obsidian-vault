@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Greedy
+lc_number: 1326
+date_solved: 
+tags:
+  - dsa
+  - greedy
+  - hard
+---
 # Minimum Number of Taps to Open to Water a Garden
 
 [Problem Link](https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/)

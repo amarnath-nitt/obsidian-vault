@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Breadth First Search
+lc_number: 126
+date_solved: 
+tags:
+  - dsa
+  - breadth-first-search
+  - hard
+---
 # Word Ladder II
 
 [Problem Link](https://leetcode.com/problems/word-ladder-ii/)

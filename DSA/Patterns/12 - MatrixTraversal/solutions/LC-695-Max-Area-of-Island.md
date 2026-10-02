@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Matrix Traversal
+lc_number: 695
+date_solved: 
+tags:
+  - dsa
+  - matrix-traversal
+  - medium
+---
 # Max Area of Island (LC 695)
 
 **Difficulty**: Medium  

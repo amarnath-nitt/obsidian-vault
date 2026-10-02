@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Greedy
+lc_number: 621
+date_solved: 
+tags:
+  - dsa
+  - greedy
+  - medium
+---
 # Task Scheduler (LC 621)
 
 **Difficulty**: Medium  

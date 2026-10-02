@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Breadth First Search
+lc_number: 102
+date_solved: 
+tags:
+  - dsa
+  - breadth-first-search
+  - medium
+---
 # Binary Tree Level Order Traversal (LC 102)
 
 **Difficulty**: Medium  

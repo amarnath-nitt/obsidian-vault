@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Fast Slow Pointers
+lc_number: 143
+date_solved: 
+tags:
+  - dsa
+  - fast-slow-pointers
+  - medium
+---
 # Reorder List (LC 143)
 
 **Difficulty**: Medium  

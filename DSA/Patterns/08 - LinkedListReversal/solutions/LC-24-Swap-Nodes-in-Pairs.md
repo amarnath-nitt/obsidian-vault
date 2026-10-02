@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Linked List Reversal
+lc_number: 24
+date_solved: 
+tags:
+  - dsa
+  - linked-list-reversal
+  - medium
+---
 # Swap Nodes in Pairs (LC 24)
 
 **Difficulty**: Medium  

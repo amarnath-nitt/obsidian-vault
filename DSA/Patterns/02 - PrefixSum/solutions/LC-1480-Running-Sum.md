@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Prefix Sum
+lc_number: 1480
+date_solved: 
+tags:
+  - dsa
+  - prefix-sum
+  - easy
+---
 # Running Sum of 1d Array
 
 [Problem Link](https://leetcode.com/problems/running-sum-of-1d-array/)

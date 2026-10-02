@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Linked List Reversal
+lc_number: 25
+date_solved: 
+tags:
+  - dsa
+  - linked-list-reversal
+  - hard
+---
 # Reverse Nodes in k-Group (LC 25)
 
 **Difficulty**: Hard  

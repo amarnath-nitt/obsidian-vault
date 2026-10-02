@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Bit Manipulation
+lc_number: 231
+date_solved: 
+tags:
+  - dsa
+  - bit-manipulation
+  - easy
+---
 # Power of Two (LC 231)
 
 **Difficulty**: Easy  

@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Two Pointers
+lc_number: 26
+date_solved: 
+tags:
+  - dsa
+  - two-pointers
+  - easy
+---
 # Remove Duplicates from Sorted Array
 
 [Problem Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)

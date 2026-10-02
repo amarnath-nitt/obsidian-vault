@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Frequency Counting
+lc_number: 217
+date_solved: 
+tags:
+  - dsa
+  - frequency-counting
+  - easy
+---
 # Contains Duplicate
 
 [Problem Link](https://leetcode.com/problems/contains-duplicate/)

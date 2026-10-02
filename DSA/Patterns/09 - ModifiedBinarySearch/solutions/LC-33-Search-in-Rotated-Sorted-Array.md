@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Modified Binary Search
+lc_number: 33
+date_solved: 
+tags:
+  - dsa
+  - modified-binary-search
+  - medium
+---
 # Search in Rotated Sorted Array (LC 33)
 
 **Difficulty**: Medium  

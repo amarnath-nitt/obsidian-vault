@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Two Pointers
+lc_number: 283
+date_solved: 
+tags:
+  - dsa
+  - two-pointers
+  - easy
+---
 # Move Zeroes
 
 [Problem Link](https://leetcode.com/problems/move-zeroes/)

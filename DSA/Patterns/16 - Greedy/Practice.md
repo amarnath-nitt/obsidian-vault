@@ -1,4 +1,4 @@
-# Greedy Algorithm - Practice Notes
+﻿# Greedy Algorithm - Practice Notes
 
 ## Pattern Overview
 Making locally optimal choices at each step with the hope of finding a global optimum.

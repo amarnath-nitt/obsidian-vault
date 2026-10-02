@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Recursion
+lc_number: 
+date_solved: 
+tags:
+  - dsa
+  - recursion
+  - easy
+---
 # Sum of Digits
 
 **Difficulty**: Easy  

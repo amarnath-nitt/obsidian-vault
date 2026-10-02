@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Fast Slow Pointers
+lc_number: 287
+date_solved: 
+tags:
+  - dsa
+  - fast-slow-pointers
+  - medium
+---
 # Find the Duplicate Number (LC 287)
 
 **Difficulty**: Medium  

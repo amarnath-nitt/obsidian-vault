@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Sliding Window
+lc_number: 438
+date_solved: 
+tags:
+  - dsa
+  - sliding-window
+  - medium
+---
 # Find All Anagrams in a String (LC 438)
 
 **Difficulty**: Medium  

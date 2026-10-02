@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Backtracking
+lc_number: 17
+date_solved: 
+tags:
+  - dsa
+  - backtracking
+  - medium
+---
 # Letter Combinations of a Phone Number (LC 17)
 
 **Difficulty**: Medium  

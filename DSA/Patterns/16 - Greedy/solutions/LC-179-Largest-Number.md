@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Greedy
+lc_number: 179
+date_solved: 
+tags:
+  - dsa
+  - greedy
+  - medium
+---
 # Largest Number (LC 179)
 
 **Difficulty**: Medium  

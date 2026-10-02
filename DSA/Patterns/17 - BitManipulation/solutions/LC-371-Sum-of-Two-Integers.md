@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Bit Manipulation
+lc_number: 371
+date_solved: 
+tags:
+  - dsa
+  - bit-manipulation
+  - medium
+---
 # Sum of Two Integers (LC 371)
 
 **Difficulty**: Medium  

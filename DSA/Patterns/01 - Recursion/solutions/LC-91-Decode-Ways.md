@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Recursion
+lc_number: 91
+date_solved:
+tags:
+  - dsa
+  - recursion
+  - medium
+---
 # Decode Ways (LC 91)
 
 **Difficulty**: Medium  

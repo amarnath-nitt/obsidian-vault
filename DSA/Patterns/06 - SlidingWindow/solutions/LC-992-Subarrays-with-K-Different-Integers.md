@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Sliding Window
+lc_number: 992
+date_solved: 
+tags:
+  - dsa
+  - sliding-window
+  - hard
+---
 # Subarrays with K Different Integers
 
 [Problem Link](https://leetcode.com/problems/subarrays-with-k-different-integers/)

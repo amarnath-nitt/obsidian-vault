@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Bit Manipulation
+lc_number: 342
+date_solved: 
+tags:
+  - dsa
+  - bit-manipulation
+  - easy
+---
 # Power of Four (LC 342)
 
 **Difficulty**: Easy  

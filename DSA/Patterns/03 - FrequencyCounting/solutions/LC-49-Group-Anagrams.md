@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Frequency Counting
+lc_number: 49
+date_solved: 
+tags:
+  - dsa
+  - frequency-counting
+  - medium
+---
 # Group Anagrams
 
 [Problem Link](https://leetcode.com/problems/group-anagrams/)

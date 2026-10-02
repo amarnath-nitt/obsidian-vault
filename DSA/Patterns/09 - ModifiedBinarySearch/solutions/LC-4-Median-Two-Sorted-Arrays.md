@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Modified Binary Search
+lc_number: 4
+date_solved: 
+tags:
+  - dsa
+  - modified-binary-search
+  - hard
+---
 # Median of Two Sorted Arrays (LC 4)
 
 **Difficulty**: Hard  

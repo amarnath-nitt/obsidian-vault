@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Recursion
+lc_number: 344
+date_solved: 
+tags:
+  - dsa
+  - recursion
+  - easy
+---
 # Reverse String (LC 344)
 
 **Difficulty**: Easy  

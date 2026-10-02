@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Sliding Window
+lc_number: 76
+date_solved: 
+tags:
+  - dsa
+  - sliding-window
+  - hard
+---
 # Minimum Window Substring (LC 76)
 
 **Difficulty**: Hard  

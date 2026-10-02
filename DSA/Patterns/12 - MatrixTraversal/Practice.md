@@ -1,4 +1,4 @@
-# Matrix Traversal - Practice Notes
+﻿# Matrix Traversal - Practice Notes
 
 ## Pattern Overview
 Traversing 2D matrices/grids using DFS, BFS, or other techniques to solve grid-based problems.

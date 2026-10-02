@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Bit Manipulation
+lc_number: 191
+date_solved: 
+tags:
+  - dsa
+  - bit-manipulation
+  - easy
+---
 # Number of 1 Bits (LC 191)
 
 **Difficulty**: Easy  

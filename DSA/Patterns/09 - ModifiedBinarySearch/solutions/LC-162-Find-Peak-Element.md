@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Modified Binary Search
+lc_number: 162
+date_solved: 
+tags:
+  - dsa
+  - modified-binary-search
+  - medium
+---
 # Find Peak Element (LC 162)
 
 **Difficulty**: Medium  

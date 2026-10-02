@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Two Pointers
+lc_number: 75
+date_solved: 
+tags:
+  - dsa
+  - two-pointers
+  - medium
+---
 # Sort Colors
 
 [Problem Link](https://leetcode.com/problems/sort-colors/)

@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Two Pointers
+lc_number: 11
+date_solved: 
+tags:
+  - dsa
+  - two-pointers
+  - medium
+---
 # Container With Most Water (LC 11)
 
 **Difficulty**: Medium  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Sliding Window
+lc_number: 219
+date_solved: 
+tags:
+  - dsa
+  - sliding-window
+  - easy
+---
 # Contains Duplicate II
 
 [Problem Link](https://leetcode.com/problems/contains-duplicate-ii/)

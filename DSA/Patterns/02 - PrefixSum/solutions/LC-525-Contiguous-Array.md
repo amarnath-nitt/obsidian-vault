@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Prefix Sum
+lc_number: 525
+date_solved: 
+tags:
+  - dsa
+  - prefix-sum
+  - medium
+---
 # Contiguous Array (LC 525)
 
 **Difficulty**: Medium  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Shortest Path
+lc_number: 787
+date_solved: 
+tags:
+  - dsa
+  - shortest-path
+  - medium
+---
 # Cheapest Flights Within K Stops (LC 787)
 
 **Difficulty**: Medium  

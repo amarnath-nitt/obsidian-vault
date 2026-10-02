@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Sliding Window
+lc_number: 567
+date_solved: 
+tags:
+  - dsa
+  - sliding-window
+  - medium
+---
 # Permutation in String (LC 567)
 
 **Difficulty**: Medium  

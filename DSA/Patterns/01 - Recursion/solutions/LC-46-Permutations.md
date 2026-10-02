@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Recursion
+lc_number: 46
+date_solved: 
+tags:
+  - dsa
+  - recursion
+  - medium
+---
 # Permutations (LC 46)
 
 **Difficulty**: Medium  

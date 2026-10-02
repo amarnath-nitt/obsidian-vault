@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Modified Binary Search
+lc_number: 153
+date_solved: 
+tags:
+  - dsa
+  - modified-binary-search
+  - medium
+---
 # Find Minimum in Rotated Sorted Array (LC 153)
 
 **Difficulty**: Medium  

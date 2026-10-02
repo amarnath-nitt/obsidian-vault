@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Top KElements
+lc_number: 692
+date_solved: 
+tags:
+  - dsa
+  - top-kelements
+  - medium
+---
 # Top K Frequent Words (LC 692)
 
 **Difficulty**: Medium  

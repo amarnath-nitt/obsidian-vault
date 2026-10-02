@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Dynamic Programming
+lc_number: 5
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - medium
+---
 # Longest Palindromic Substring (LC 5)
 
 **Difficulty**: Medium  

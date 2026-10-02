@@ -1,4 +1,4 @@
-# Dynamic Programming - Practice Notes
+﻿# Dynamic Programming - Practice Notes
 
 ## Pattern Overview
 Breaking down problems into overlapping subproblems and storing solutions to avoid redundant computation.

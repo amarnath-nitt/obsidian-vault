@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Sliding Window
+lc_number: 1004
+date_solved: 
+tags:
+  - dsa
+  - sliding-window
+  - medium
+---
 # Max Consecutive Ones III
 
 [Problem Link](https://leetcode.com/problems/max-consecutive-ones-iii/)

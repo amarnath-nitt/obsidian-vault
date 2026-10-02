@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Overlapping Intervals
+lc_number: 253
+date_solved: 
+tags:
+  - dsa
+  - overlapping-intervals
+  - medium
+---
 # Meeting Rooms II (LC 253)
 
 **Difficulty**: Medium  

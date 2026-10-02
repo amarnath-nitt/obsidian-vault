@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Breadth First Search
+lc_number: 637
+date_solved: 
+tags:
+  - dsa
+  - breadth-first-search
+  - easy
+---
 # Average of Levels in Binary Tree (LC 637)
 
 **Difficulty**: Easy  

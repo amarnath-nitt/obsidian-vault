@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Recursion
+lc_number: 17
+date_solved: 
+tags:
+  - dsa
+  - recursion
+  - medium
+---
 # Letter Combinations of a Phone Number (LC 17)
 
 **Difficulty**: Medium  

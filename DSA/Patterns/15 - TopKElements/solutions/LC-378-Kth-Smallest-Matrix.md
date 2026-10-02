@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Top KElements
+lc_number: 378
+date_solved: 
+tags:
+  - dsa
+  - top-kelements
+  - medium
+---
 # Kth Smallest Element in a Sorted Matrix (LC 378)
 
 **Difficulty**: Medium  

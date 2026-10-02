@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Fast Slow Pointers
+lc_number: 876
+date_solved: 
+tags:
+  - dsa
+  - fast-slow-pointers
+  - easy
+---
 # Middle of the Linked List (LC 876)
 
 **Difficulty**: Easy  

@@ -1,4 +1,4 @@
-# Monotonic Stack - Practice Notes
+﻿# Monotonic Stack - Practice Notes
 
 ## Pattern Overview
 A stack that maintains elements in a monotonically increasing or decreasing order, useful for finding next/previous greater or smaller elements.

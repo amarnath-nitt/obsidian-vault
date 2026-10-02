@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Linked List Reversal
+lc_number: 92
+date_solved: 
+tags:
+  - dsa
+  - linked-list-reversal
+  - medium
+---
 # Reverse Linked List II (LC 92)
 
 **Difficulty**: Medium  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Breadth First Search
+lc_number: 199
+date_solved: 
+tags:
+  - dsa
+  - breadth-first-search
+  - medium
+---
 # Binary Tree Right Side View (LC 199)
 
 **Difficulty**: Medium  

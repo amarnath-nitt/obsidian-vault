@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Depth First Search
+lc_number: 236
+date_solved: 
+tags:
+  - dsa
+  - depth-first-search
+  - medium
+---
 # Lowest Common Ancestor of a Binary Tree (LC 236)
 
 **Difficulty**: Medium  

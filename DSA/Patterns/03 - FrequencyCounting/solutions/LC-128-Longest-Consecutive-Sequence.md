@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Frequency Counting
+lc_number: 128
+date_solved: 
+tags:
+  - dsa
+  - frequency-counting
+  - medium
+---
 # Longest Consecutive Sequence (LC 128)
 
 **Difficulty**: Medium  

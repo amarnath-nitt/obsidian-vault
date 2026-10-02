@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Top KElements
+lc_number: 767
+date_solved: 
+tags:
+  - dsa
+  - top-kelements
+  - medium
+---
 # Reorganize String (LC 767)
 
 **Difficulty**: Medium  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Overlapping Intervals
+lc_number: 759
+date_solved: 
+tags:
+  - dsa
+  - overlapping-intervals
+  - hard
+---
 # Employee Free Time
 
 [Problem Link](https://leetcode.com/problems/employee-free-time/)

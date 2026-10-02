@@ -38,8 +38,8 @@ for (char c : s.toCharArray()) {
 ### Medium
 - [x] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) (LC 347) → [Solution](solutions/LC-347-Top-K-Frequent-Elements.md)
 - [x] [Group Anagrams](https://leetcode.com/problems/group-anagrams/) (LC 49) → [Solution](solutions/LC-49-Group-Anagrams.md)
-- [x] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (LC 438) → [Solution](../SlidingWindow/solutions/LC-438-Find-All-Anagrams.md)
-- [x] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) (LC 560) → [Solution](../PrefixSum/solutions/LC-560-Subarray-Sum-Equals-K.md)
+- [x] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) (LC 438) → [Solution](../06 - SlidingWindow/solutions/LC-438-Find-All-Anagrams.md)
+- [x] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) (LC 560) → [Solution](../02 - PrefixSum/solutions/LC-560-Subarray-Sum-Equals-K.md)
 - [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) (LC 128) → [Solution](solutions/LC-128-Longest-Consecutive-Sequence.md)
 
 ### Hard

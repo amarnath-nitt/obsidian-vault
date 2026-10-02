@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Matrix Traversal
+lc_number: 417
+date_solved: 
+tags:
+  - dsa
+  - matrix-traversal
+  - medium
+---
 # Pacific Atlantic Water Flow (LC 417)
 
 **Difficulty**: Medium  

@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Depth First Search
+lc_number: 104
+date_solved: 
+tags:
+  - dsa
+  - depth-first-search
+  - easy
+---
 # Maximum Depth of Binary Tree (LC 104)
 
 **Difficulty**: Easy  

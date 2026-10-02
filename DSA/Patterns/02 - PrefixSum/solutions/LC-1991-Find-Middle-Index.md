@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Prefix Sum
+lc_number: 1991
+date_solved: 
+tags:
+  - dsa
+  - prefix-sum
+  - easy
+---
 # Find the Middle Index in Array
 
 [Problem Link](https://leetcode.com/problems/find-the-middle-index-in-array/)

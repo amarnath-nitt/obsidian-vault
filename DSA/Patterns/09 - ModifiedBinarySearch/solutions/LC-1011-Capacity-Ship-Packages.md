@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Modified Binary Search
+lc_number: 1011
+date_solved: 
+tags:
+  - dsa
+  - modified-binary-search
+  - medium
+---
 # Capacity To Ship Packages Within D Days (LC 1011)
 
 **Difficulty**: Medium  

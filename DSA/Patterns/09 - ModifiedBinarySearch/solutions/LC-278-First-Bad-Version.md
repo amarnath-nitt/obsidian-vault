@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Modified Binary Search
+lc_number: 278
+date_solved: 
+tags:
+  - dsa
+  - modified-binary-search
+  - easy
+---
 # First Bad Version (LC 278)
 
 **Difficulty**: Easy  

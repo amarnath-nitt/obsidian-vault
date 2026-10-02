@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Greedy
+lc_number: 53
+date_solved: 
+tags:
+  - dsa
+  - greedy
+  - medium
+---
 # Maximum Subarray (LC 53)
 
 **Difficulty**: Medium  

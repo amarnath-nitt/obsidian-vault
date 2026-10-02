@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Bit Manipulation
+lc_number: 338
+date_solved: 
+tags:
+  - dsa
+  - bit-manipulation
+  - easy
+---
 # Counting Bits (LC 338)
 
 **Difficulty**: Easy  

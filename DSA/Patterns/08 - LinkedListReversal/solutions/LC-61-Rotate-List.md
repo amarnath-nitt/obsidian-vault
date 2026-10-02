@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Linked List Reversal
+lc_number: 61
+date_solved: 
+tags:
+  - dsa
+  - linked-list-reversal
+  - medium
+---
 # Rotate List (LC 61)
 
 **Difficulty**: Medium  

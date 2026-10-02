@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Greedy
+lc_number: 45
+date_solved: 
+tags:
+  - dsa
+  - greedy
+  - medium
+---
 # Jump Game II (LC 45)
 
 **Difficulty**: Medium  

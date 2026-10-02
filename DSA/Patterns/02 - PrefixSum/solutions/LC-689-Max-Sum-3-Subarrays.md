@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Prefix Sum
+lc_number: 689
+date_solved: 
+tags:
+  - dsa
+  - prefix-sum
+  - hard
+---
 # Maximum Sum of 3 Non-Overlapping Subarrays
 
 [Problem Link](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/)

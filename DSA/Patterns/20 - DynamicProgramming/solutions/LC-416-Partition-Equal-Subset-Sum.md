@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Dynamic Programming
+lc_number: 416
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - medium
+---
 # Partition Equal Subset Sum (LC 416)
 
 **Difficulty**: Medium  

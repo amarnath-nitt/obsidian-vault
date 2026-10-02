@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Dynamic Programming
+lc_number: 152
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - medium
+---
 # Maximum Product Subarray (LC 152)
 
 **Difficulty**: Medium  

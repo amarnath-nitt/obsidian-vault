@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Monotonic Stack
+lc_number: 1475
+date_solved: 
+tags:
+  - dsa
+  - monotonic-stack
+  - easy
+---
 # Final Prices With a Special Discount in a Shop (LC 1475)
 
 **Difficulty**: Easy  

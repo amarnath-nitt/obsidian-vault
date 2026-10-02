@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Dynamic Programming
+lc_number: 10
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - hard
+---
 # Regular Expression Matching
 
 [Problem Link](https://leetcode.com/problems/regular-expression-matching/)

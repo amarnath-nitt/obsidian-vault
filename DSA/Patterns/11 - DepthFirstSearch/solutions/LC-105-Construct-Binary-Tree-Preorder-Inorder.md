@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Depth First Search
+lc_number: 105
+date_solved: 
+tags:
+  - dsa
+  - depth-first-search
+  - medium
+---
 # Construct Binary Tree from Preorder and Inorder Traversal (LC 105)
 
 **Difficulty**: Medium  

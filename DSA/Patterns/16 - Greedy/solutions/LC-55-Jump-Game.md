@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Greedy
+lc_number: 55
+date_solved: 
+tags:
+  - dsa
+  - greedy
+  - medium
+---
 # Jump Game (LC 55)
 
 **Difficulty**: Medium  

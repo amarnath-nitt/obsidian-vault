@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Recursion
+lc_number: 341
+date_solved: 
+tags:
+  - dsa
+  - recursion
+  - medium
+---
 # Flatten Nested List Iterator (LC 341)
 
 **Difficulty**: Medium  

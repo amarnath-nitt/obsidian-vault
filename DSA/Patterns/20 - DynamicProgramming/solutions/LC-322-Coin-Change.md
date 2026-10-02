@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Dynamic Programming
+lc_number: 322
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - medium
+---
 # Coin Change (LC 322)
 
 **Difficulty**: Medium  

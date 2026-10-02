@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Recursion
+lc_number: 779
+date_solved: 
+tags:
+  - dsa
+  - recursion
+  - medium
+---
 # K-th Symbol in Grammar (LC 779)
 
 **Difficulty**: Medium  

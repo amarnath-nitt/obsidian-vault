@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Bit Manipulation
+lc_number: 190
+date_solved: 
+tags:
+  - dsa
+  - bit-manipulation
+  - easy
+---
 # Reverse Bits (LC 190)
 
 **Difficulty**: Easy  

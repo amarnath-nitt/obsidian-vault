@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Backtracking
+lc_number: 22
+date_solved: 
+tags:
+  - dsa
+  - backtracking
+  - medium
+---
 # Generate Parentheses (LC 22)
 
 **Difficulty**: Medium  

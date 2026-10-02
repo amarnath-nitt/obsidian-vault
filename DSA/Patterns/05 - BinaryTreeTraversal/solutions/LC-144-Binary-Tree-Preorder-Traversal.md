@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Binary Tree Traversal
+lc_number: 144
+date_solved: 
+tags:
+  - dsa
+  - binary-tree-traversal
+  - easy
+---
 # Binary Tree Preorder Traversal (LC 144)
 
 **Difficulty**: Easy  

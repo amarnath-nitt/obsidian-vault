@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Hard
+pattern: Recursion
+lc_number: 51
+date_solved: 
+tags:
+  - dsa
+  - recursion
+  - hard
+---
 # N-Queens (LC 51)
 
 **Difficulty**: Hard  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Dynamic Programming
+lc_number: 213
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - medium
+---
 # House Robber II (LC 213)
 
 **Difficulty**: Medium  

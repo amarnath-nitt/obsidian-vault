@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Greedy
+lc_number: 409
+date_solved: 
+tags:
+  - dsa
+  - greedy
+  - easy
+---
 # Longest Palindrome (LC 409)
 
 **Difficulty**: Easy  

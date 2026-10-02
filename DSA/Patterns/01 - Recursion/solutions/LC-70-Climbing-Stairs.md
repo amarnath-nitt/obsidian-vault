@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Recursion
+lc_number: 70
+date_solved: 
+tags:
+  - dsa
+  - recursion
+  - easy
+---
 # Climbing Stairs (LC 70)
 
 **Difficulty**: Easy  

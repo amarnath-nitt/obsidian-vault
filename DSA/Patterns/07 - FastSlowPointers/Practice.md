@@ -1,4 +1,4 @@
-# Fast & Slow Pointers - Practice Notes
+﻿# Fast & Slow Pointers - Practice Notes
 
 ## Pattern Overview
 Also known as Floyd's Cycle Detection or "Tortoise and Hare" algorithm. Uses two pointers moving at different speeds.

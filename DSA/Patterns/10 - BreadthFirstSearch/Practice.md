@@ -1,4 +1,4 @@
-# Breadth-First Search (BFS) - Practice Notes
+﻿# Breadth-First Search (BFS) - Practice Notes
 
 ## Pattern Overview
 Explores nodes level by level, useful for finding shortest paths and level-order traversals.

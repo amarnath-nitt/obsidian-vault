@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Medium
+pattern: Recursion
+lc_number: 78
+date_solved: 
+tags:
+  - dsa
+  - recursion
+  - medium
+---
 # Subsets (LC 78)
 
 **Difficulty**: Medium  

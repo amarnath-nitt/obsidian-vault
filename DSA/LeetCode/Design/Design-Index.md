@@ -4,33 +4,27 @@ A curated collection of essential LeetCode design problems for technical intervi
 
 ---
 
-## Difficulty Roadmap
+## 🎯 Difficulty Roadmap
 
-### Easy
+### 🟢 Easy
 
-| # | Problem | Key Concepts | Status |
-|---|---------|-------------|---------|
-| 706 | [[Design-HashMap\|Design HashMap]] | Hash function, collision handling, resizing | Complete |
+- [x] **706** · [[Design-HashMap|Design HashMap]] — Hash function, collision handling, resizing
 
-### Medium
+### 🟡 Medium
 
-| # | Problem | Key Concepts | Status |
-|---|---------|-------------|---------|
-| 155 | [[Min-Stack\|Min Stack]] | Auxiliary stack, constant-time min | Complete |
-| 208 | [[Implement-Trie\|Implement Trie]] | Prefix tree, node representation | Complete |
-| 211 | [[Add-and-Search-Words\|Add and Search Words]] | Trie + DFS wildcard matching | Complete |
-| 380 | [[Insert-Delete-GetRandom-O1\|Insert Delete GetRandom O(1)]] | HashMap + ArrayList, swap-remove | Complete |
-| 379 | [[Design-Phone-Directory\|Design Phone Directory]] | Queue + HashSet / BitSet | Complete |
-| 981 | [[Time-Based-Key-Value-Store\|Time Based Key-Value Store]] | Timestamp indexing, binary search | Complete |
-| 1472 | [[Design-Browser-History\|Design Browser History]] | Two stacks, list pointer, history truncation | Complete |
-| 355 | [[Design-Twitter\|Design Twitter]] | Heap, k-way merge, social graph | Complete |
+- [x] **155** · [[Min-Stack|Min Stack]] — Auxiliary stack, constant-time min
+- [x] **208** · [[Implement-Trie|Implement Trie]] — Prefix tree, node representation
+- [x] **211** · [[Add-and-Search-Words|Add and Search Words]] — Trie + DFS wildcard matching
+- [x] **380** · [[Insert-Delete-GetRandom-O1|Insert Delete GetRandom O(1)]] — HashMap + ArrayList, swap-remove
+- [x] **379** · [[Design-Phone-Directory|Design Phone Directory]] — Queue + HashSet / BitSet
+- [x] **981** · [[Time-Based-Key-Value-Store|Time Based Key-Value Store]] — Timestamp indexing, binary search
+- [x] **1472** · [[Design-Browser-History|Design Browser History]] — Two stacks, list pointer, history truncation
+- [x] **355** · [[Design-Twitter|Design Twitter]] — Heap, k-way merge, social graph
 
-### Hard
+### 🔴 Hard
 
-| # | Problem | Key Concepts | Status |
-|---|---------|-------------|---------|
-| 146 | [[LRU-Cache\|LRU Cache]] | HashMap + doubly linked list | Complete |
-| 460 | [[LFU-Cache\|LFU Cache]] | Frequency buckets, LRU tie-break | Complete |
+- [x] **146** · [[LRU-Cache|LRU Cache]] — HashMap + doubly linked list
+- [x] **460** · [[LFU-Cache|LFU Cache]] — Frequency buckets, LRU tie-break
 
 ### Recommended Order
 
@@ -47,25 +41,14 @@ A curated collection of essential LeetCode design problems for technical intervi
 
 ---
 
-## Progress Tracker
-
-- ✅ **Cache Design:** 2/2 problems
-- ✅ **Data Structure Design:** 6/6 problems  
-- ✅ **System Design:** 3/3 problems
-- ✅ **Stack / Queue Design:** 2/2 problems
-
-**Total:** 13 problems | ✅ **ALL COMPLETE!** 🎉
-
----
-
 ## Cache Design Problems
 
 Master cache eviction policies and understand the differences between LRU and LFU.
 
-| # | Problem | Difficulty | Key Concepts | Status |
-|---|---------|------------|-------------|---------|
-| 146 | [[LRU-Cache\|LRU Cache]] | Medium | HashMap + Doubly Linked List, O(1) operations | ✅ |
-| 460 | [[LFU-Cache\|LFU Cache]] | Hard | HashMap + LinkedHashSet, Frequency tracking | ✅ |
+| # | Problem | Difficulty | Key Concepts |
+|---|---------|------------|-------------|
+| 146 | [[LRU-Cache\|LRU Cache]] | Medium | HashMap + Doubly Linked List, O(1) operations |
+| 460 | [[LFU-Cache\|LFU Cache]] | Hard | HashMap + LinkedHashSet, Frequency tracking |
 
 ---
 
@@ -73,10 +56,10 @@ Master cache eviction policies and understand the differences between LRU and LF
 
 Fundamental stack and queue variations.
 
-| # | Problem | Difficulty | Key Concepts | Status |
-|---|---------|------------|-------------|---------|
-| 155 | [[Min-Stack\|Min Stack]] | Medium | Two stacks, Constant time getMin | ✅ |
-| 1472 | [[Design-Browser-History\|Design Browser History]] | Medium | Stacks vs Doubly Linked List vs Array | ✅ |
+| # | Problem | Difficulty | Key Concepts |
+|---|---------|------------|-------------|
+| 155 | [[Min-Stack\|Min Stack]] | Medium | Two stacks, Constant time getMin |
+| 1472 | [[Design-Browser-History\|Design Browser History]] | Medium | Stacks vs Doubly Linked List vs Array |
 
 ---
 
@@ -84,13 +67,13 @@ Fundamental stack and queue variations.
 
 Fundamental data structures every engineer should know how to implement from scratch.
 
-| # | Problem | Difficulty | Key Concepts | Status |
-|---|---------|------------|-------------|---------|
-| 208 | [[Implement-Trie\|Implement Trie]] | Medium | Prefix tree, Array vs HashMap approaches | ✅ |
-| 706 | [[Design-HashMap\|Design HashMap]] | Easy | Hash function, Collision resolution, Chaining | ✅ |
-| 211 | [[Add-and-Search-Words\|Add and Search Words]] | Medium | Trie + DFS, Wildcard matching, Backtracking | ✅ |
-| 380 | [[Insert-Delete-GetRandom-O1\|Insert Delete GetRandom O(1)]] | Medium | HashMap + ArrayList, Swap-remove technique | ✅ |
-| 379 | [[Design-Phone-Directory\|Design Phone Directory]] | Medium | Queue + HashSet vs BitSet, Lazy Loading | ✅ |
+| # | Problem | Difficulty | Key Concepts |
+|---|---------|------------|-------------|
+| 208 | [[Implement-Trie\|Implement Trie]] | Medium | Prefix tree, Array vs HashMap approaches |
+| 706 | [[Design-HashMap\|Design HashMap]] | Easy | Hash function, Collision resolution, Chaining |
+| 211 | [[Add-and-Search-Words\|Add and Search Words]] | Medium | Trie + DFS, Wildcard matching, Backtracking |
+| 380 | [[Insert-Delete-GetRandom-O1\|Insert Delete GetRandom O(1)]] | Medium | HashMap + ArrayList, Swap-remove technique |
+| 379 | [[Design-Phone-Directory\|Design Phone Directory]] | Medium | Queue + HashSet vs BitSet, Lazy Loading |
 
 ---
 
@@ -98,10 +81,10 @@ Fundamental data structures every engineer should know how to implement from scr
 
 Real-world system design problems that test your ability to combine multiple data structures.
 
-| # | Problem | Difficulty | Key Concepts | Status |
-|---|---------|------------|-------------|---------|
-| 981 | [[Time-Based-Key-Value-Store\|Time Based Key-Value Store]] | Medium | Binary search, Timestamp indexing, TreeMap | ✅ |
-| 355 | [[Design-Twitter\|Design Twitter]] | Medium | Max heap, K-way merge, Social graph | ✅ |
+| # | Problem | Difficulty | Key Concepts |
+|---|---------|------------|-------------|
+| 981 | [[Time-Based-Key-Value-Store\|Time Based Key-Value Store]] | Medium | Binary search, Timestamp indexing, TreeMap |
+| 355 | [[Design-Twitter\|Design Twitter]] | Medium | Max heap, K-way merge, Social graph |
 
 ---
 
@@ -276,4 +259,12 @@ Real-world system design problems that test your ability to combine multiple dat
 
 ---
 
-*Last Updated: January 9, 2026*
+## 🔗 Related Notes
+
+- [[../00 - Index|LeetCode Master Index]]
+- [[../Blind75/Top-75-Index|Top 75 Index]]
+- [[../../Patterns/00 - Index|Patterns Index]]
+
+---
+
+*Last Updated: October 2, 2026*

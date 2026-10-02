@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Matrix Traversal
+lc_number: 463
+date_solved: 
+tags:
+  - dsa
+  - matrix-traversal
+  - easy
+---
 # Island Perimeter (LC 463)
 
 **Difficulty**: Easy  

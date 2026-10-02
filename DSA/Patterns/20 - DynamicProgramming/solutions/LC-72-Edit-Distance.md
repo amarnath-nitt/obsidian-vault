@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Dynamic Programming
+lc_number: 72
+date_solved: 
+tags:
+  - dsa
+  - dynamic-programming
+  - hard
+---
 # Edit Distance
 
 [Problem Link](https://leetcode.com/problems/edit-distance/)

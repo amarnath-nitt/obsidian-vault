@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Trie
+lc_number: 745
+date_solved: 
+tags:
+  - dsa
+  - trie
+  - hard
+---
 # Prefix and Suffix Search
 
 [Problem Link](https://leetcode.com/problems/prefix-and-suffix-search/)

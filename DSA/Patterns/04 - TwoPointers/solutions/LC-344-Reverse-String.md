@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Two Pointers
+lc_number: 344
+date_solved: 
+tags:
+  - dsa
+  - two-pointers
+  - easy
+---
 # Reverse String
 
 [Problem Link](https://leetcode.com/problems/reverse-string/)

@@ -1,4 +1,4 @@
-# Backtracking - Practice Notes
+﻿# Backtracking - Practice Notes
 
 ## Pattern Overview
 A recursive technique for solving problems by trying to build a solution incrementally and abandoning solutions that fail to satisfy constraints.

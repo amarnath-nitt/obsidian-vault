@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Linked List Reversal
+lc_number: 234
+date_solved: 
+tags:
+  - dsa
+  - linked-list-reversal
+  - easy
+---
 # Palindrome Linked List
 
 [Problem Link](https://leetcode.com/problems/palindrome-linked-list/)

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Matrix Traversal
+lc_number: 130
+date_solved: 
+tags:
+  - dsa
+  - matrix-traversal
+  - medium
+---
 # Surrounded Regions (LC 130)
 
 **Difficulty**: Medium  

@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Hard
+pattern: Bit Manipulation
+lc_number: 421
+date_solved: 
+tags:
+  - dsa
+  - bit-manipulation
+  - hard
+---
 # Maximum XOR of Two Numbers in an Array
 
 [Problem Link](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)

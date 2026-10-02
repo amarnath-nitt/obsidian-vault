@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Breadth First Search
+lc_number: 111
+date_solved: 
+tags:
+  - dsa
+  - breadth-first-search
+  - easy
+---
 # Minimum Depth of Binary Tree (LC 111)
 
 **Difficulty**: Easy  

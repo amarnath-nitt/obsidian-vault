@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Breadth First Search
+lc_number: 116
+date_solved: 
+tags:
+  - dsa
+  - breadth-first-search
+  - medium
+---
 # Populating Next Right Pointers in Each Node (LC 116)
 
 **Difficulty**: Medium  

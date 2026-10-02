@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Matrix Traversal
+lc_number: 200
+date_solved: 
+tags:
+  - dsa
+  - matrix-traversal
+  - medium
+---
 # Number of Islands (LC 200)
 
 **Difficulty**: Medium  

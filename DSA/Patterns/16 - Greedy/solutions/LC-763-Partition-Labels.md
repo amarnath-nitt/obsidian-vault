@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Medium
+pattern: Greedy
+lc_number: 763
+date_solved: 
+tags:
+  - dsa
+  - greedy
+  - medium
+---
 # Partition Labels (LC 763)
 
 **Difficulty**: Medium  

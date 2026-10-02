@@ -1,3 +1,14 @@
+---
+solved: true
+difficulty: Easy
+pattern: Frequency Counting
+lc_number: 387
+date_solved: 
+tags:
+  - dsa
+  - frequency-counting
+  - easy
+---
 # First Unique Character in a String (LC 387)
 
 **Difficulty**: Easy  

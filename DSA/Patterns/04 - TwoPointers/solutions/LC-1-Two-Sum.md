@@ -1,3 +1,14 @@
+---
+solved: false
+difficulty: Easy
+pattern: Two Pointers
+lc_number: 1
+date_solved: 
+tags:
+  - dsa
+  - two-pointers
+  - easy
+---
 # Two Sum (LC 1)
 
 **Difficulty**: Easy  

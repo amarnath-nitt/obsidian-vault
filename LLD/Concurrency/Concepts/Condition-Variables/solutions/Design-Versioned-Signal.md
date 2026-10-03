@@ -10,7 +10,8 @@ class VersionedSignal {
     VersionedSignal();          // version starts at 0
     int currentVersion();
     void signal();              // version++, wake every waiter that may now proceed
-    int awaitNext(int observedVersion);   // wait until version > observedVersion; return current
+    int awaitNext(int observedVersion) throws InterruptedException;
+                                      // wait until version > observedVersion; return current
 }
 ```
 
@@ -24,7 +25,7 @@ enough for every waiter).
 ```java
 // ❌ one-shot notification: if the signal fires before anyone waits, it is gone forever
 synchronized void signal() { notified = true; notifyAll(); }
-synchronized int awaitNext(int observed) {
+synchronized int awaitNext(int observed) throws InterruptedException {
     if (!notified) wait();        // 'if' + non-durable flag → missed wakeup
     return version;
 }
@@ -51,7 +52,7 @@ public final class VersionedSignal {
         }
     }
 
-    public int awaitNext(int observedVersion) {
+    public int awaitNext(int observedVersion) throws InterruptedException {
         synchronized (lock) {
             while (version <= observedVersion) {  // re-check EVERY wakeup
                 lock.wait();                      // releases the monitor while parked
@@ -79,6 +80,8 @@ signal.awaitNext(observed);                      // returns 1 immediately, even 
   two and re-check a stale version.
 - **`notifyAll()`** — several waiters may share the same predicate, and one bump may serve all of them.
 - **Immediate return when already satisfied** — the `while` condition is false on entry, so no wait.
+- **`awaitNext` declares `throws InterruptedException`** — `wait()` throws a checked exception, so
+  cancellation propagates to the caller instead of being silently swallowed.
 
 **Complexity:** O(waiters) per `signal()` (all are woken and re-check) · Space O(1).
 

@@ -8,14 +8,15 @@
 ```java
 class ReadersWriters {
     ReadersWriters();
-    void read(Runnable readAction);
-    void write(Runnable writeAction);
+    void read(Runnable readAction) throws InterruptedException;
+    void write(Runnable writeAction) throws InterruptedException;
 }
 ```
 
 **Guarantees:** any number of readers run simultaneously; a writer runs **alone** (no other writer,
 no readers); access lasts for the **entire callback**; callbacks are invoked exactly once; the class
-only **coordinates** — it must not create worker threads.
+only **coordinates** — it must not create worker threads. `read`/`write` declare
+`throws InterruptedException` because `Condition.await()` is a checked, cancellable park.
 
 **The hard part — writer preference:**
 
@@ -27,7 +28,7 @@ only **coordinates** — it must not create worker threads.
 
 ```java
 // ❌ Reader-preference: under a steady stream of readers, writers starve forever
-public void read(Runnable r) {
+public void read(Runnable r) throws InterruptedException {
     lock.lock();
     while (writerActive) canRead.await();
     activeReaders++;                       // new readers keep arriving → waitingWriters never matters
@@ -54,7 +55,7 @@ public final class ReadersWriters {
     private int  waitingWriters = 0;
     private boolean writerActive = false;
 
-    public void read(Runnable readAction) {
+    public void read(Runnable readAction) throws InterruptedException {
         lock.lock();
         try {
             // READER PREFERENCE is deliberately broken here:
@@ -74,7 +75,7 @@ public final class ReadersWriters {
         }
     }
 
-    public void write(Runnable writeAction) {
+    public void write(Runnable writeAction) throws InterruptedException {
         lock.lock();
         try {
             waitingWriters++;                        // ← queue position: blocks later readers
